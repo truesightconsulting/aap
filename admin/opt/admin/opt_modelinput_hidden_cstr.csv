@@ -1,37 +1,37 @@
 "bdgt_id","dma1_name","chan1_name","sales1_name","chan2_name","client_id","chan2_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
-"185_244_146","National","Display","AAP Net Sales","AAP",37,185,244,146,NULL,NULL,NULL
-"185_355_146","National","TV","AAP Net Sales","AAP",37,185,355,146,NULL,NULL,NULL
-"185_359_146","National","Affliates","AAP Net Sales","AAP",37,185,359,146,NULL,NULL,NULL
-"185_360_146","National","Branded Search","AAP Net Sales","AAP",37,185,360,146,NULL,NULL,NULL
-"185_361_146","National","Generic Search - Batteries","AAP Net Sales","AAP",37,185,361,146,NULL,NULL,NULL
-"185_362_146","National","Generic Search - Brakes","AAP Net Sales","AAP",37,185,362,146,NULL,NULL,NULL
-"185_363_146","National","Generic Search - Oil","AAP Net Sales","AAP",37,185,363,146,NULL,NULL,NULL
-"185_364_146","National","Generic Search - Other","AAP Net Sales","AAP",37,185,364,146,NULL,NULL,NULL
-"185_365_146","National","Radio Speed Perk","AAP Net Sales","AAP",37,185,365,146,NULL,NULL,NULL
-"185_366_146","National","Youtube","AAP Net Sales","AAP",37,185,366,146,NULL,NULL,NULL
-"186_244_146","National","Display","AAP Net Sales","Castrol",37,186,244,146,NULL,NULL,NULL
-"186_289_146","National","Social","AAP Net Sales","Castrol",37,186,289,146,NULL,NULL,NULL
-"186_354_146","National","Search","AAP Net Sales","Castrol",37,186,354,146,NULL,NULL,NULL
-"186_67_146","National","Direct Mail","AAP Net Sales","Castrol",37,186,67,146,NULL,NULL,NULL
-"186_72_146","National","Radio","AAP Net Sales","Castrol",37,186,72,146,NULL,NULL,NULL
-"187_72_146","National","Radio","AAP Net Sales","JCI",37,187,72,146,NULL,NULL,NULL
-"188_244_146","National","Display","AAP Net Sales","Mobil",37,188,244,146,NULL,NULL,NULL
-"188_289_146","National","Social","AAP Net Sales","Mobil",37,188,289,146,NULL,NULL,NULL
-"188_354_146","National","Search","AAP Net Sales","Mobil",37,188,354,146,NULL,NULL,NULL
-"188_67_146","National","Direct Mail","AAP Net Sales","Mobil",37,188,67,146,NULL,NULL,NULL
-"188_72_146","National","Radio","AAP Net Sales","Mobil",37,188,72,146,NULL,NULL,NULL
-"189_244_146","National","Display","AAP Net Sales","Pennzoil",37,189,244,146,NULL,NULL,NULL
-"189_289_146","National","Social","AAP Net Sales","Pennzoil",37,189,289,146,NULL,NULL,NULL
-"189_354_146","National","Search","AAP Net Sales","Pennzoil",37,189,354,146,NULL,NULL,NULL
-"189_67_146","National","Direct Mail","AAP Net Sales","Pennzoil",37,189,67,146,NULL,NULL,NULL
-"189_72_146","National","Radio","AAP Net Sales","Pennzoil",37,189,72,146,NULL,NULL,NULL
-"190_244_146","National","Display","AAP Net Sales","Shell",37,190,244,146,NULL,NULL,NULL
-"190_289_146","National","Social","AAP Net Sales","Shell",37,190,289,146,NULL,NULL,NULL
-"190_354_146","National","Search","AAP Net Sales","Shell",37,190,354,146,NULL,NULL,NULL
-"190_67_146","National","Direct Mail","AAP Net Sales","Shell",37,190,67,146,NULL,NULL,NULL
-"190_72_146","National","Radio","AAP Net Sales","Shell",37,190,72,146,NULL,NULL,NULL
-"191_244_146","National","Display","AAP Net Sales","Vavoline",37,191,244,146,NULL,NULL,NULL
-"191_289_146","National","Social","AAP Net Sales","Vavoline",37,191,289,146,NULL,NULL,NULL
-"191_354_146","National","Search","AAP Net Sales","Vavoline",37,191,354,146,NULL,NULL,NULL
-"191_67_146","National","Direct Mail","AAP Net Sales","Vavoline",37,191,67,146,NULL,NULL,NULL
-"191_72_146","National","Radio","AAP Net Sales","Vavoline",37,191,72,146,NULL,NULL,NULL
+"139_174_1","National","TV","AAP Net Sales","AAP",25,139,174,1,NULL,NULL,NULL
+"139_180_1","National","Affliates","AAP Net Sales","AAP",25,139,180,1,NULL,NULL,NULL
+"139_181_1","National","Branded Search","AAP Net Sales","AAP",25,139,181,1,NULL,NULL,NULL
+"139_182_1","National","Generic Search - Batteries","AAP Net Sales","AAP",25,139,182,1,NULL,NULL,NULL
+"139_183_1","National","Generic Search - Brakes","AAP Net Sales","AAP",25,139,183,1,NULL,NULL,NULL
+"139_184_1","National","Generic Search - Oil","AAP Net Sales","AAP",25,139,184,1,NULL,NULL,NULL
+"139_185_1","National","Generic Search - Other","AAP Net Sales","AAP",25,139,185,1,NULL,NULL,NULL
+"139_186_1","National","Radio Speed Perk","AAP Net Sales","AAP",25,139,186,1,NULL,NULL,NULL
+"139_187_1","National","Youtube","AAP Net Sales","AAP",25,139,187,1,NULL,NULL,NULL
+"139_75_1","National","Display","AAP Net Sales","AAP",25,139,75,1,NULL,NULL,NULL
+"140_144_1","National","Social","AAP Net Sales","Castrol",25,140,144,1,NULL,NULL,NULL
+"140_171_1","National","Search","AAP Net Sales","Castrol",25,140,171,1,NULL,NULL,NULL
+"140_30_1","National","Radio","AAP Net Sales","Castrol",25,140,30,1,NULL,NULL,NULL
+"140_42_1","National","Direct Mail","AAP Net Sales","Castrol",25,140,42,1,NULL,NULL,NULL
+"140_75_1","National","Display","AAP Net Sales","Castrol",25,140,75,1,NULL,NULL,NULL
+"141_30_1","National","Radio","AAP Net Sales","JCI",25,141,30,1,NULL,NULL,NULL
+"142_144_1","National","Social","AAP Net Sales","Mobil",25,142,144,1,NULL,NULL,NULL
+"142_171_1","National","Search","AAP Net Sales","Mobil",25,142,171,1,NULL,NULL,NULL
+"142_30_1","National","Radio","AAP Net Sales","Mobil",25,142,30,1,NULL,NULL,NULL
+"142_42_1","National","Direct Mail","AAP Net Sales","Mobil",25,142,42,1,NULL,NULL,NULL
+"142_75_1","National","Display","AAP Net Sales","Mobil",25,142,75,1,NULL,NULL,NULL
+"143_144_1","National","Social","AAP Net Sales","Pennzoil",25,143,144,1,NULL,NULL,NULL
+"143_171_1","National","Search","AAP Net Sales","Pennzoil",25,143,171,1,NULL,NULL,NULL
+"143_30_1","National","Radio","AAP Net Sales","Pennzoil",25,143,30,1,NULL,NULL,NULL
+"143_42_1","National","Direct Mail","AAP Net Sales","Pennzoil",25,143,42,1,NULL,NULL,NULL
+"143_75_1","National","Display","AAP Net Sales","Pennzoil",25,143,75,1,NULL,NULL,NULL
+"144_144_1","National","Social","AAP Net Sales","Shell",25,144,144,1,NULL,NULL,NULL
+"144_171_1","National","Search","AAP Net Sales","Shell",25,144,171,1,NULL,NULL,NULL
+"144_30_1","National","Radio","AAP Net Sales","Shell",25,144,30,1,NULL,NULL,NULL
+"144_42_1","National","Direct Mail","AAP Net Sales","Shell",25,144,42,1,NULL,NULL,NULL
+"144_75_1","National","Display","AAP Net Sales","Shell",25,144,75,1,NULL,NULL,NULL
+"145_144_1","National","Social","AAP Net Sales","Vavoline",25,145,144,1,NULL,NULL,NULL
+"145_171_1","National","Search","AAP Net Sales","Vavoline",25,145,171,1,NULL,NULL,NULL
+"145_30_1","National","Radio","AAP Net Sales","Vavoline",25,145,30,1,NULL,NULL,NULL
+"145_42_1","National","Direct Mail","AAP Net Sales","Vavoline",25,145,42,1,NULL,NULL,NULL
+"145_75_1","National","Display","AAP Net Sales","Vavoline",25,145,75,1,NULL,NULL,NULL
