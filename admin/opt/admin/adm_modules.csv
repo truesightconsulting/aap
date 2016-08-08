@@ -8,7 +8,7 @@ Marketing Channel,opt_input_dim_chan,1
 Markets,opt_input_dim_dma,1
 Sales Metric,opt_input_dim_sales,0
 Sales Channel,opt_input_dim_salchan,0
-Event Setup,opt_input_event,1
+Event Setup,opt_input_event,0
 Optimization Metric,opt_input_optimization_target,1
 Optimization Type,opt_input_optimization_type,1
 Time Window,opt_input_optimization_win,0
