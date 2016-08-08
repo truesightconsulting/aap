@@ -1,0 +1,37 @@
+"bdgt_id","dma1_name","chan1_name","chan2_name","client_id","chan2_id","chan1_id","dma1_id","sp_min_h","percent_max","sp_max_h"
+"185_244_146","National","Display","AAP",37,185,244,146,NULL,NULL,NULL
+"185_355_146","National","TV","AAP",37,185,355,146,NULL,NULL,NULL
+"185_359_146","National","Affliates","AAP",37,185,359,146,NULL,NULL,NULL
+"185_360_146","National","Branded Search","AAP",37,185,360,146,NULL,NULL,NULL
+"185_361_146","National","Generic Search - Batteries","AAP",37,185,361,146,NULL,NULL,NULL
+"185_362_146","National","Generic Search - Brakes","AAP",37,185,362,146,NULL,NULL,NULL
+"185_363_146","National","Generic Search - Oil","AAP",37,185,363,146,NULL,NULL,NULL
+"185_364_146","National","Generic Search - Other","AAP",37,185,364,146,NULL,NULL,NULL
+"185_365_146","National","Radio Speed Perk","AAP",37,185,365,146,NULL,NULL,NULL
+"185_366_146","National","Youtube","AAP",37,185,366,146,NULL,NULL,NULL
+"186_244_146","National","Display","Castrol",37,186,244,146,NULL,NULL,NULL
+"186_289_146","National","Social","Castrol",37,186,289,146,NULL,NULL,NULL
+"186_354_146","National","Search","Castrol",37,186,354,146,NULL,NULL,NULL
+"186_67_146","National","Direct Mail","Castrol",37,186,67,146,NULL,NULL,NULL
+"186_72_146","National","Radio","Castrol",37,186,72,146,NULL,NULL,NULL
+"187_72_146","National","Radio","JCI",37,187,72,146,NULL,NULL,NULL
+"188_244_146","National","Display","Mobil",37,188,244,146,NULL,NULL,NULL
+"188_289_146","National","Social","Mobil",37,188,289,146,NULL,NULL,NULL
+"188_354_146","National","Search","Mobil",37,188,354,146,NULL,NULL,NULL
+"188_67_146","National","Direct Mail","Mobil",37,188,67,146,NULL,NULL,NULL
+"188_72_146","National","Radio","Mobil",37,188,72,146,NULL,NULL,NULL
+"189_244_146","National","Display","Pennzoil",37,189,244,146,NULL,NULL,NULL
+"189_289_146","National","Social","Pennzoil",37,189,289,146,NULL,NULL,NULL
+"189_354_146","National","Search","Pennzoil",37,189,354,146,NULL,NULL,NULL
+"189_67_146","National","Direct Mail","Pennzoil",37,189,67,146,NULL,NULL,NULL
+"189_72_146","National","Radio","Pennzoil",37,189,72,146,NULL,NULL,NULL
+"190_244_146","National","Display","Shell",37,190,244,146,NULL,NULL,NULL
+"190_289_146","National","Social","Shell",37,190,289,146,NULL,NULL,NULL
+"190_354_146","National","Search","Shell",37,190,354,146,NULL,NULL,NULL
+"190_67_146","National","Direct Mail","Shell",37,190,67,146,NULL,NULL,NULL
+"190_72_146","National","Radio","Shell",37,190,72,146,NULL,NULL,NULL
+"191_244_146","National","Display","Vavoline",37,191,244,146,NULL,NULL,NULL
+"191_289_146","National","Social","Vavoline",37,191,289,146,NULL,NULL,NULL
+"191_354_146","National","Search","Vavoline",37,191,354,146,NULL,NULL,NULL
+"191_67_146","National","Direct Mail","Vavoline",37,191,67,146,NULL,NULL,NULL
+"191_72_146","National","Radio","Vavoline",37,191,72,146,NULL,NULL,NULL

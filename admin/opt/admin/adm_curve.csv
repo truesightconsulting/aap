@@ -1,0 +1,37 @@
+all_name,dma1_name,sales1_name,chan2_name,chan1_name,max,cpp,hl,hrf,wks,beta,curvegroup_name
+overall,National,AAP Net Sales,AAP,Affliates,171647.9831,1,0.3,0.45,1,163544.4074,weekly
+overall,National,AAP Net Sales,AAP,Branded Search,511032,0.067313405,0.3,0.45,1,233326.6264,weekly
+overall,National,AAP Net Sales,AAP,Display,61317682,0.002550676,2,0.15,1,795575.7083,weekly
+overall,National,AAP Net Sales,AAP,Generic Search - Batteries,21794,1.873500105,0.3,0.15,1,1607254.855,weekly
+overall,National,AAP Net Sales,AAP,Generic Search - Brakes,14470,1.849444562,0.3,0.15,1,900841.7453,weekly
+overall,National,AAP Net Sales,AAP,Generic Search - Oil,62500,1,0.3,0.15,1,128859.8691,weekly
+overall,National,AAP Net Sales,AAP,Generic Search - Other,150916,0.658079856,0.3,0.15,1,1606481.111,weekly
+overall,National,AAP Net Sales,AAP,Radio Speed Perk,117.3,3718.300052,4,0.15,1,2063565.455,weekly
+overall,National,AAP Net Sales,AAP,TV,111.2,16965.37004,2,0.15,1,1836701.959,weekly
+overall,National,AAP Net Sales,AAP,Youtube,20000,1,0.3,0.45,1,82003.80707,weekly
+overall,National,AAP Net Sales,Castrol,Direct Mail,187129,1,1,0.6,1,112269.777,weekly
+overall,National,AAP Net Sales,Castrol,Display,75000,1,0.3,0.15,1,131732.8033,weekly
+overall,National,AAP Net Sales,Castrol,Radio,100,3229,1,0.15,1,717022.0085,weekly
+overall,National,AAP Net Sales,Castrol,Search,50000,1,0.3,0.45,1,84171.88674,weekly
+overall,National,AAP Net Sales,Castrol,Social,5000,1,0.3,0.45,1,24937.9469,weekly
+overall,National,AAP Net Sales,JCI,Radio,117.3,3740.703718,4,0.15,1,1412232.53,weekly
+overall,National,AAP Net Sales,Mobil,Direct Mail,160000,0.589082759,1,0.25,1,94813.70912,weekly
+overall,National,AAP Net Sales,Mobil,Display,75000,1,0.3,0.15,1,99845.68399,weekly
+overall,National,AAP Net Sales,Mobil,Radio,75,4542.080964,2,0.15,1,832828.9324,weekly
+overall,National,AAP Net Sales,Mobil,Search,50000,1,0.3,0.45,1,14479.35317,weekly
+overall,National,AAP Net Sales,Mobil,Social,5000,1,0.3,0.45,1,14051.83366,weekly
+overall,National,AAP Net Sales,Pennzoil,Direct Mail,187129,1,1,0.25,1,1645157.512,weekly
+overall,National,AAP Net Sales,Pennzoil,Display,13333,1,0.3,0.45,1,56571.48052,weekly
+overall,National,AAP Net Sales,Pennzoil,Radio,78,3229,2,0.15,1,603754.4206,weekly
+overall,National,AAP Net Sales,Pennzoil,Search,33333,1,0.3,0.45,1,80268.68961,weekly
+overall,National,AAP Net Sales,Pennzoil,Social,5000,1,0.3,0.45,1,24937.9469,weekly
+overall,National,AAP Net Sales,Shell,Direct Mail,130000,1,1,0.25,1,93219.89303,weekly
+overall,National,AAP Net Sales,Shell,Display,75000,1,0.3,0.15,1,166785.5436,weekly
+overall,National,AAP Net Sales,Shell,Radio,100,3056,2,0.15,1,560352.2801,weekly
+overall,National,AAP Net Sales,Shell,Search,50000,1,0.3,0.45,1,78761.56384,weekly
+overall,National,AAP Net Sales,Shell,Social,5000,1,0.3,0.45,1,23060.47352,weekly
+overall,National,AAP Net Sales,Vavoline,Direct Mail,91667,1,1,0.25,1,54056.4534,weekly
+overall,National,AAP Net Sales,Vavoline,Display,75000,1,0.3,0.15,1,107732.9179,weekly
+overall,National,AAP Net Sales,Vavoline,Radio,100,2969,2,0.15,1,551434.2669,weekly
+overall,National,AAP Net Sales,Vavoline,Search,50000,1,0.3,0.45,1,48673.86021,weekly
+overall,National,AAP Net Sales,Vavoline,Social,5000,1,0.3,0.45,1,11367.75962,weekly
