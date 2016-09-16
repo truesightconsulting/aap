@@ -20,10 +20,10 @@ overall,National,Other,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,21243,weekly
 overall,National,Parts,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,244823,weekly
 overall,National,Other,AAP,Direct Mail,207614.5,1,1,0.6,1,738702,weekly
 overall,National,Parts,AAP,Direct Mail,207614.5,1,1,0.6,1,340449,weekly
-overall,National,Brakes,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,3093,weekly
-overall,National,Oil,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,4570,weekly
-overall,National,Other,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,81337,weekly
-overall,National,Parts,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,1517482,weekly
+overall,National,Brakes,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,6186,weekly
+overall,National,Oil,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,9140,weekly
+overall,National,Other,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,162674,weekly
+overall,National,Parts,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,3034964,weekly
 overall,National,Batteries,AAP,Generic Search - Batteries,21794,2.573500105,0.3,0.2,1,1034639,weekly
 overall,National,Other,AAP,Generic Search - Batteries,21794,2.573500105,0.3,0.2,1,272616,weekly
 overall,National,Brakes,AAP,Generic Search - Brakes,14470,1.849444562,0.3,0.2,1,900842,weekly
@@ -43,10 +43,10 @@ overall,National,Batteries,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0
 overall,National,Brakes,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,179010,weekly
 overall,National,Other,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,400944,weekly
 overall,National,Parts,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,306062,weekly
-overall,National,Batteries,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,42942,weekly
-overall,National,Brakes,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,175407,weekly
-overall,National,Other,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,447827,weekly
-overall,National,Parts,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,341850,weekly
+overall,National,Batteries,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,85884,weekly
+overall,National,Brakes,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,350814,weekly
+overall,National,Other,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,895654,weekly
+overall,National,Parts,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,683700,weekly
 overall,National,Oil,Castrol,Castrol Oil - Direct Mail,187129,1,1,0.6,1,112270,weekly
 overall,National,Oil,Castrol,Castrol Oil - Search,50000,1,0.3,0.15,1,84172,weekly
 overall,National,Oil,Castrol,Castrol Oil - Display,75000,1,1,0.15,1,131733,weekly
