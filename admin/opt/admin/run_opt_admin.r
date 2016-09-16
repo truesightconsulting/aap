@@ -17,7 +17,7 @@ if (is.staging){
   password="XH3RoKdopf12L4BJbqXTtD2yESgwL$fGd(juW)ed"
 }
 main.path="c:\\Users\\XinZhou\\Documents\\GitHub\\opt\\" # opt files path
-season.var=0.05  # from 0 to 1
+season.var=0.20  # from 0 to 1
 
 
 if (db.usage) conn <- dbConnect(MySQL(),user=username, password=password,dbname=db.name, host=db.server)

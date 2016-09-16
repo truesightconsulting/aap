@@ -1,2 +1,10 @@
-sales1_name,clv,approval
-AAP Net Sales,0.373045166,1
+sales1_name,sales2_name,clv,approval
+Batteries,AAP,1,1
+Oil,AAP,1,1
+Other,AAP,1,1
+Parts,AAP,1,1
+Brakes,AAP,1,1
+Oil,Castrol,1,1
+Oil,Mobil,1,1
+Oil,Pennzoil,1,1
+Oil,Vavoline,1,1

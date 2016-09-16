@@ -6,7 +6,7 @@ Time Window,opt_input_curvegroup,0
 Time Window,opt_input_date_range,1
 Marketing Channel,opt_input_dim_chan,1
 Markets,opt_input_dim_dma,1
-Sales Metric,opt_input_dim_sales,0
+Product,opt_input_dim_sales,1
 Sales Channel,opt_input_dim_salchan,0
 Event Setup,opt_input_event,0
 Optimization Metric,opt_input_optimization_target,1
