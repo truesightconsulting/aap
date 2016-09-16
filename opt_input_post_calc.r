@@ -25,8 +25,8 @@ curve$sp_inc=ex.setup$input_increment
 # summarize result
 input_sp=c("sp_current","spend_start")
 output_sp=c("spend","spend_start")
-input_decomp=c("value_decomp","value_decomp_start")
-output_decomp=c("decomp","decomp_start")
+input_decomp=c("value_decomp","value_decomp_start","value_npv","value_npv_start")
+output_decomp=c("decomp","decomp_start","value","value_start")
 
 source(paste(main.path,"opt_modelinput_post_calc_agg.r",sep=""),local = T)
 
@@ -37,12 +37,12 @@ name_eff=c("ROI","Planned ROI")
 f_eff=c("decomp/spend","decomp_start/spend_start")
 
 # existing var
-metric_reg=c("spend","decomp","spend_start","decomp_start")
-name_reg=c("Spend","Net Sales","Planned Spend","Planned Net Sales")
+metric_reg=c("spend","decomp","value","value_start","spend_start","decomp_start")
+name_reg=c("Spend","Net Sales","Margin","Planned Margin","Planned Spend","Planned Net Sales")
 
 # table column order 
-order_all=c("spend","decomp","eff1","spend_start","decomp_start","eff1_start")
-order_other=c("spend","spend_start","decomp","decomp_start","eff1","eff1_start")
+order_all=c("spend","decomp","value","eff1","spend_start","decomp_start","value_start","eff1_start")
+order_other=c("spend","spend_start","decomp","decomp_start","value","value_start","eff1","eff1_start")
 
 # any columns to be dropped for all, excel and other tables; NAME HERE IS AFTER RENAMED!!!!!!!!!!!!!!!!!!!!!!!!!!
 drop_all=c("all_name","ROI","Planned ROI")
