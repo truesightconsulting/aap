@@ -5,7 +5,7 @@ dmatable_1,Market,dma,3,0,1,table,1,dma1_id,NULL
 overall,overall,overall,0,0,0,overall,0,all_id,NULL
 tacticchart_1,Tactic,chan,1,1,0,bar,1,chan1_id,NULL
 tactictable_1,Tactic,chan,1,0,1,table,1,"chan1_id,dma1_id",dma
-salseschart_2,Product,chan,2,1,0,bar,1,"sales1_id,sales2_id",NULL
-saleschart_1,Product,chan,2,1,0,bar,1,sales1_id,NULL
-salestable_2,Product,chan,2,0,1,table,1,"sales1_id,sales2_id",NULL
-salestable_1,Product,chan,2,0,1,table,1,sales1_id,NULL
+salseschart_2,Product,sales,2,1,0,bar,1,"sales1_id,sales2_id",NULL
+saleschart_1,Product,sales,2,1,0,bar,1,sales1_id,NULL
+salestable_2,Product,sales,2,0,1,table,1,"sales1_id,sales2_id",NULL
+salestable_1,Product,sales,2,0,1,table,1,sales1_id,NULL
