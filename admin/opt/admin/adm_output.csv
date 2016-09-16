@@ -1,6 +1,6 @@
 label,group,type,tab,is_chart,is_table,chart,drilldown,dim,filter
 excel_result_1,Drilldown Result,excel,0,0,0,excel,0,"chan1_id,sales1_id,sales2_id,dma1_id",NULL
-excel_result_2,Spend,excel,0,0,0,excel,0,"chan1_id,dma1_id",NULL
+excel_result_2,Spend,excel,0,0,0,excel,0,"chan1_id,dma1_id,week_id",NULL
 dmachart_1,Market,dma,3,1,0,bar,1,dma1_id,NULL
 dmatable_1,Market,dma,3,0,1,table,1,dma1_id,NULL
 overall,overall,overall,0,0,0,overall,0,all_id,NULL
