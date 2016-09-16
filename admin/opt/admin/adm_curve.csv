@@ -1,8 +1,8 @@
 all_name,dma1_name,sales1_name,sales2_name,chan1_name,max,cpp,hl,hrf,wks, beta ,curvegroup_name
-overall,National,Batteries,AAP,Affiliates,171647.9831,1,0.3,0.45,1,57007,weekly
-overall,National,Oil,AAP,Affiliates,171647.9831,1,0.3,0.45,1,5091,weekly
-overall,National,Other,AAP,Affiliates,171647.9831,1,0.3,0.45,1,45776,weekly
-overall,National,Parts,AAP,Affiliates,171647.9831,1,0.3,0.45,1,55670,weekly
+overall,National,Batteries,AAP,Affliates,171647.9831,1,0.3,0.45,1,57007,weekly
+overall,National,Oil,AAP,Affliates,171647.9831,1,0.3,0.45,1,5091,weekly
+overall,National,Other,AAP,Affliates,171647.9831,1,0.3,0.45,1,45776,weekly
+overall,National,Parts,AAP,Affliates,171647.9831,1,0.3,0.45,1,55670,weekly
 overall,National,Other,AAP,Branded Search,511032,0.067313405,0.3,0.45,1,46571,weekly
 overall,National,Parts,AAP,Branded Search,511032,0.067313405,0.3,0.45,1,186756,weekly
 overall,National,Brakes,AAP,Terrestial Radio-NSO,10000,1,4,0.15,1,12616,weekly
@@ -13,31 +13,30 @@ overall,National,Brakes,AAP,TV-GM,111.2,16965.37004,2,0.15,1,741519,weekly
 overall,National,Oil,AAP,TV-GM,111.2,16965.37004,2,0.15,1,9965,weekly
 overall,National,Other,AAP,TV-GM,111.2,16965.37004,2,0.15,1,70811,weekly
 overall,National,Parts,AAP,TV-GM,111.2,16965.37004,2,0.15,1,816075,weekly
-overall,National,Batteries,AAP,TV-Hispanic,200,1696.537004,2,0.15,1,39666,weekly
-overall,National,Brakes,AAP,TV-Hispanic,200,1696.537004,2,0.15,1,148304,weekly
-overall,National,Oil,AAP,TV-Hispanic,200,1696.537004,2,0.15,1,1993,weekly
-overall,National,Other,AAP,TV-Hispanic,200,1696.537004,2,0.15,1,14162,weekly
-overall,National,Parts,AAP,TV-Hispanic,200,1696.537004,2,0.15,1,163215,weekly
-overall,National,Other,AAP,Direct Mail,207614.5,1,1,0.6,1,1477403,weekly
-overall,National,Parts,AAP,Direct Mail,207614.5,1,1,0.6,1,680898,weekly
+overall,National,Batteries,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,59499,weekly
+overall,National,Brakes,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,222456,weekly
+overall,National,Oil,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,2990,weekly
+overall,National,Other,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,21243,weekly
+overall,National,Parts,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,244823,weekly
+overall,National,Other,AAP,Direct Mail,207614.5,1,1,0.6,1,738702,weekly
+overall,National,Parts,AAP,Direct Mail,207614.5,1,1,0.6,1,340449,weekly
 overall,National,Brakes,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,3093,weekly
 overall,National,Oil,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,4570,weekly
 overall,National,Other,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,81337,weekly
 overall,National,Parts,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,1517482,weekly
-overall,National,Batteries,AAP,Generic Search - Batteries,21794,1.873500105,0.3,0.2,1,1334639,weekly
-overall,National,Other,AAP,Generic Search - Batteries,21794,1.873500105,0.3,0.2,1,272616,weekly
+overall,National,Batteries,AAP,Generic Search - Batteries,21794,2.573500105,0.3,0.2,1,1034639,weekly
+overall,National,Other,AAP,Generic Search - Batteries,21794,2.573500105,0.3,0.2,1,272616,weekly
 overall,National,Brakes,AAP,Generic Search - Brakes,14470,1.849444562,0.3,0.2,1,900842,weekly
+overall,National,Batteries,AAP,Display,61317682,0.002550676,2,0.15,1,12134,weekly
 overall,National,Other,AAP,Display,61317682,0.002550676,2,0.15,1,32603,weekly
 overall,National,Parts,AAP,Display,61317682,0.002550676,2,0.15,1,681941,weekly
 overall,National,Batteries,AAP,OOH,50000,1,2,0.15,1,35039,weekly
 overall,National,Other,AAP,OOH,50000,1,2,0.15,1,30064,weekly
+overall,National,Batteries,AAP,Youtube,20000,1,0.3,0.45,1,12088,weekly
 overall,National,Brakes,AAP,Youtube,20000,1,0.3,0.45,1,7891,weekly
 overall,National,Oil,AAP,Youtube,20000,1,0.3,0.45,1,20570,weekly
 overall,National,Other,AAP,Youtube,20000,1,0.3,0.45,1,41454,weekly
 overall,National,Oil,AAP,Social,35000,1,0.3,0.45,1,20240,weekly
-overall,National,Batteries,AAP,Social,35000,1,0.3,0.45,1,20240,weekly
-overall,National,Batteries,AAP,Display,61317682,0.002550676,2,0.15,1,12134,weekly
-overall,National,Batteries,AAP,Youtube,20000,1,0.3,0.45,1,12088,weekly
 overall,National,Batteries,AAP,Radio - Batteries,117.3,3740.703718,4,0.15,1,983909,weekly
 overall,National,Parts,AAP,Radio - Batteries,117.3,3740.703718,4,0.15,1,428323,weekly
 overall,National,Batteries,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,38446,weekly
@@ -62,7 +61,7 @@ overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,160000,1,1,0.25,1,80853
 overall,National,Oil,Pennzoil,Pennzoil Oil - Search,50000,1,0.3,0.45,1,16508,weekly
 overall,National,Oil,Pennzoil,Pennzoil Oil - Display,75000,1,2,0.15,1,44129,weekly
 overall,National,Oil,Pennzoil,Pennzoil Oil - Social,5000,1,0.3,0.45,1,17453,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,80,3056,0.3,0.45,1,1370689,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,100,3056,0.3,0.45,1,717022,weekly
 overall,National,Oil,Vavoline,Valvoline Oil - Direct Mail,91667,1,1,0.25,1,54056,weekly
 overall,National,Oil,Vavoline,Valvoline Oil - Search,50000,1,0.3,0.15,1,48674,weekly
 overall,National,Oil,Vavoline,Valvoline Oil - Display,75000,1,2,0.15,1,107733,weekly
