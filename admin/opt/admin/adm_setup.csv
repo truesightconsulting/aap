@@ -4,7 +4,7 @@ client_name,AAP
 r_path,/home/rstudio/nviz/aap/
 general_message,
 calendar,1
-pace,10000
+pace,5000
 goal_check,1
 bdgt_dim,"chan1_id,dma1_id"
 event_dim,"sales1_id,sales2_id,chan1_id,dma1_id"
