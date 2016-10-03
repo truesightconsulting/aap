@@ -53,12 +53,12 @@ overall,National,Oil,Castrol,Castrol Oil - Display,75000,1,1,0.15,1,131733,weekl
 overall,National,Oil,Castrol,Castrol Oil - Social,5000,1,0.3,0.45,1,24938,weekly
 overall,National,Oil,Castrol,Castrol Oil - Radio,100,3229,0.3,0.45,1,717022,weekly
 overall,National,Oil,Mobil,Mobil Oil - Direct Mail,160000,1,1,0.25,1,94814,weekly
-overall,National,Oil,Mobil,Mobil Oil - Search,50000,1,0.3,0.15,1,14479,weekly
+overall,National,Oil,Mobil,Mobil Oil - Search,50000,1,0.3,0.15,1,72395,weekly
 overall,National,Oil,Mobil,Mobil Oil - Display,75000,1,2,0.15,1,99846,weekly
 overall,National,Oil,Mobil,Mobil Oil - Social,5000,1,0.3,0.45,1,14052,weekly
 overall,National,Oil,Mobil,Mobil Oil - Radio,100,3289,0.3,0.45,1,832829,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,160000,1,1,0.25,1,80853,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Search,50000,1,0.3,0.45,1,16508,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,160000,1,1,0.25,1,105109,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Search,50000,1,0.3,0.45,1,82540,weekly
 overall,National,Oil,Pennzoil,Pennzoil Oil - Display,75000,1,2,0.15,1,44129,weekly
 overall,National,Oil,Pennzoil,Pennzoil Oil - Social,5000,1,0.3,0.45,1,17453,weekly
 overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,100,3056,0.3,0.45,1,717022,weekly
@@ -66,7 +66,7 @@ overall,National,Oil,Vavoline,Valvoline Oil - Direct Mail,91667,1,1,0.25,1,54056
 overall,National,Oil,Vavoline,Valvoline Oil - Search,50000,1,0.3,0.15,1,48674,weekly
 overall,National,Oil,Vavoline,Valvoline Oil - Display,75000,1,2,0.15,1,107733,weekly
 overall,National,Oil,Vavoline,Valvoline Oil - Social,5000,1,0.3,0.45,1,11368,weekly
-overall,National,Oil,Vavoline,Valvoline Oil - Radio,100,2969,0.3,0.45,1,551434,weekly
+overall,National,Oil,Vavoline,Valvoline Oil - Radio,100,2969,0.3,0.45,1,772008,weekly
 overall,ALBUQUERQUE/SANTA FE-NM,Batteries,AAP,Terrestial Radio-Speed Perk,200,32.76928571,4,0.15,1,17,weekly
 overall,ATLANTA-GA,Batteries,AAP,Terrestial Radio-Speed Perk,200,213.3795699,4,0.15,1,3718,weekly
 overall,AUSTIN-TX,Batteries,AAP,Terrestial Radio-Speed Perk,200,108.976,4,0.15,1,656,weekly
