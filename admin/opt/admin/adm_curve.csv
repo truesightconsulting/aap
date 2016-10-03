@@ -32,10 +32,10 @@ overall,National,Other,AAP,Display,61317682,0.002550676,2,0.15,1,32603,weekly
 overall,National,Parts,AAP,Display,61317682,0.002550676,2,0.15,1,681941,weekly
 overall,National,Batteries,AAP,OOH,50000,1,2,0.15,1,35039,weekly
 overall,National,Other,AAP,OOH,50000,1,2,0.15,1,30064,weekly
-overall,National,Batteries,AAP,Youtube,20000,1,0.3,0.45,1,12088,weekly
-overall,National,Brakes,AAP,Youtube,20000,1,0.3,0.45,1,7891,weekly
-overall,National,Oil,AAP,Youtube,20000,1,0.3,0.45,1,20570,weekly
-overall,National,Other,AAP,Youtube,20000,1,0.3,0.45,1,41454,weekly
+overall,National,Batteries,AAP,Youtube,60000,1,0.3,0.3,1,12088,weekly
+overall,National,Brakes,AAP,Youtube,60000,1,0.3,0.3,1,7891,weekly
+overall,National,Oil,AAP,Youtube,60000,1,0.3,0.3,1,20570,weekly
+overall,National,Other,AAP,Youtube,60000,1,0.3,0.3,1,41454,weekly
 overall,National,Oil,AAP,Social,35000,1,0.3,0.45,1,20240,weekly
 overall,National,Batteries,AAP,Radio - Batteries,117.3,3740.703718,4,0.15,1,983909,weekly
 overall,National,Parts,AAP,Radio - Batteries,117.3,3740.703718,4,0.15,1,428323,weekly
