@@ -1,0 +1,113 @@
+sales1_name,chan1_name,chan2_name,all_name,hl,hrf,max,cps,wks,dma1_name,spend,decomp
+Acquisition Bundles,Online Display,Connectivity_Banner,overall,0.77,0.9,92295.26,1,1,National,42312.49336,45.65819935
+Acquisition Bundles,Outbound Calls,Connectivity_Acquisition,overall,1.39,0.2,68250,1,1,National,24940.65,59.50374082
+Acquisition Bundles,Outdoor,Connectivity,overall,2.31,0.6,202344.6201,1,1,National,71955.11923,177.005909
+Acquisition Bundles,Radio,Connectivity,overall,0.77,0.6,140106.7102,1,1,National,55005.36538,85.3978269
+Acquisition Bundles,DoortoDoor,Connectivity,overall,0.77,0.8,58935.99363,1,1,National,50716.16758,105.8420349
+Acquisition Bundles,Promotion,Connectivity_Bundle,overall,0.01,0.001,304086.4836,1,1,National,155654.0172,108.8947207
+Acquisition Bundles,Dailies,Connectivity,overall,3.47,0.8,222567.6401,1,1,National,78890.19231,36.96372077
+Acquisition Bundles,Search,Connectivity_Unbranded,overall,1.16,0.3,3456.83,1,1,National,2072.980769,137.9095431
+Acquisition Bundles,Facebook,Connectivity,overall,0.77,0.25,27102.71,1,1,National,7947.878276,20.9644989
+Acquisition Bundles,Television,Connectivity,overall,6.93,0.2,372506.9471,1,1,National,113157.5054,209.9871517
+Acquisition Bundles,Email,Connectivity_Acquisition,overall,3.47,0.1,22951.64,1,1,National,4773.83,2.964689248
+Acquisition Bundles,Direct Marketing,Connectivity_Acquisition,overall,6.93,0.5,22887,1,1,National,22887,69.46311991
+Cross-Sell Mobile,Television,Connectivity,overall,5.33,0.45,372506.9471,1,1,National,113157.5054,172.1843381
+Cross-Sell Mobile,Outbound Calls,Connectivity_Cross Sell,overall,1.73,0.3,162324.75,1,1,National,40998.20455,295.3826831
+Cross-Sell Mobile,DoortoDoor,Connectivity,overall,0.87,0.5,58935.99363,1,1,National,50716.16758,245.6065943
+Cross-Sell Mobile,Outdoor,Connectivity,overall,0.99,0.4,202344.6201,1,1,National,71955.11923,147.4604518
+Cross-Sell Mobile,Direct Marketing,Connectivity_Cross Sell,overall,3.47,0.5,697061.95,1,1,National,226788.1182,1043.899307
+Cross-Sell Mobile,Radio,Connectivity,overall,1.16,0.2,140106.7102,1,1,National,55005.36538,81.16879117
+Cross-Sell Mobile,Dailies,Connectivity,overall,1.73,0.8,222567.6401,1,1,National,78890.19231,117.5227548
+Cross-Sell Mobile,Promotion,Connectivity_Mobile,overall,0.01,0.001,233934.1026,1,1,National,73834.32206,204.05514
+Cross-Sell Mobile,Search,Connectivity_Unbranded,overall,0.77,0.7,3456.83,1,1,National,2072.980769,62.07470759
+Cross-Sell Mobile,Online Display,Connectivity_Banner,overall,0.77,0.2,92295.26,1,1,National,42312.49336,63.36856381
+Cross-Sell Mobile,Facebook,Connectivity,overall,3.47,0.8,27102.71,1,1,National,7947.878276,46.50391624
+Cross-Sell Mobile,Email,Connectivity_Cross Sell,overall,2.31,0.3,18136.66,1,1,National,7049.222857,142.5562129
+Acquisition Internet Only,Outbound Calls,Connectivity_Acquisition,overall,0.77,0.91,68250,1,1,National,24940.65,23.08659091
+Acquisition Internet Only,Email,Connectivity_Acquisition,overall,0.87,0.1,22951.64,1,1,National,4773.83,10.67766596
+Acquisition Internet Only,Search,Connectivity_Unbranded,overall,5.33,0.1,3456.83,1,1,National,2072.980769,18.03482222
+Acquisition Internet Only,Online Display,Connectivity_Video,overall,6.93,0.9,50010.4,1,1,National,40675.35851,108.9860117
+Acquisition Internet Only,Facebook,Connectivity,overall,1.16,0.16,27102.71,1,1,National,7947.878276,10.03391957
+Acquisition Internet Only,Promotion,Connectivity_INT,overall,0.01,0.001,54641.79457,1,1,National,53169.9331,12.2154677
+Acquisition Internet Only,Outdoor,Connectivity,overall,4.95,0.5,202344.6201,1,1,National,71955.11923,69.9233311
+Acquisition Internet Only,DoortoDoor,Connectivity,overall,2.38,0.75,58935.99363,1,1,National,50716.16758,45.51209257
+Acquisition Internet Only,Television,Connectivity,overall,3.66,0.34,372506.9471,1,1,National,113157.5054,61.37613323
+Acquisition Internet Only,Radio,Connectivity,overall,1.2,0.4,140106.7102,1,1,National,55005.36538,16.18250598
+Up-Sell Whop to Whoppa,Television,Connectivity,overall,2.31,0.6,372506.9471,1,1,National,113157.5054,22.7248477
+Up-Sell Whop to Whoppa,Radio,Connectivity,overall,0.77,0.7,140106.7102,1,1,National,55005.36538,11.97648114
+Up-Sell Whop to Whoppa,Search,Connectivity_Unbranded,overall,0.99,0.05,3456.83,1,1,National,2072.980769,18.22997344
+Up-Sell Whop to Whoppa,Facebook,Connectivity,overall,0.77,0.1,27102.71,1,1,National,7947.878276,13.95036701
+Up-Sell Whop to Whoppa,Outdoor,Connectivity,overall,1.39,0.5,202344.6201,1,1,National,71955.11923,16.62573947
+Up-Sell Whop to Whoppa,Outbound Calls,Connectivity_Upsell,overall,4.62,0.1,79579.5,1,1,National,31995.35294,114.0621331
+Up-Sell Whop to Whoppa,Email,Connectivity_Upsell,overall,1.16,0.1,22951.64,1,1,National,6707.1,21.84393218
+Up-Sell Whop to Whoppa,Direct Marketing,Connectivity_Upsell,overall,4.62,0.3,767880.1,1,1,National,222213.8643,109.2214164
+Up-Sell Whop to Whoppa,DoortoDoor,Connectivity,overall,0.77,0.8,58935.99363,1,1,National,50716.16758,38.32337185
+Up-Sell Whop to Whoppa,Dailies,Connectivity,overall,0.77,0.5,222567.6401,1,1,National,78890.19231,11.3827437
+Up-Sell Whop to Whoppa,Online Display,Connectivity_Banner,overall,1.16,0.1,92295.26,1,1,National,42312.49336,15.08425212
+Acquisition DTV - TV only,Television,Connectivity,overall,6.93,0.6,372506.9471,1,1,National,113157.5054,86.21390049
+Acquisition DTV - TV only,Outdoor,Connectivity,overall,0.73,0.95,202344.6201,1,1,National,71955.11923,2.276151158
+Acquisition DTV - TV only,DoortoDoor,Connectivity,overall,0.96,0.72,58935.99363,1,1,National,50716.16758,36.09908939
+Acquisition DTV - TV only,Outbound Calls,Connectivity_Acquisition,overall,3.37,0.9,68250,1,1,National,24940.65,19.14850696
+Acquisition DTV - TV only,Direct Marketing,Connectivity_Acquisition,overall,1.73,0.7,22887,1,1,National,22887,78.52572613
+Acquisition DTV - TV only,Email,Connectivity_Acquisition,overall,2.31,0.9,22951.64,1,1,National,4773.83,17.16082704
+Acquisition DTV - TV only,Radio,Connectivity,overall,0.77,0.9,140106.7102,1,1,National,55005.36538,4.160754741
+Acquisition DTV - TV only,Online Display,Connectivity_Banner,overall,0.77,0.9,92295.26,1,1,National,42312.49336,19.42812463
+Acquisition DTV - TV only,Facebook,Connectivity,overall,0.77,0.9,27102.71,1,1,National,7947.878276,1.599962772
+Churn mobile,Television,Connectivity,overall,0.01,0.6,372506.9471,1,1,National,113157.5054,29.32055707
+Churn mobile,Outbound Calls,Connectivity_Retention,overall,0.01,0.45,151462.5,1,1,National,54619.875,11.33385267
+Churn mobile,Direct Marketing,Connectivity_Retention,overall,0.01,0.6,198052,1,1,National,77155.475,28.66249385
+Churn mobile,Search,Connectivity_Unbranded,overall,0.01,0.6,3456.83,1,1,National,2072.980769,8.048508718
+Churn mobile,Email,Connectivity_Acquisition,overall,0.3,0.6,22951.64,1,1,National,4773.83,7.834806251
+Churn mobile,Facebook,Connectivity,overall,4,0.6,27102.71,1,1,National,7947.878276,7.01221959
+Churn mobile,Online Display,Connectivity_Video,overall,0.6,0.3,50010.4,1,1,National,40675.35851,84.81246475
+Churn 2P 3P 4P,Outbound Calls,Connectivity_Retention,overall,1,0.6,151462.5,1,1,National,54619.875,48.59627998
+Churn 2P 3P 4P,Online Display,Connectivity_Video,overall,0.01,0.3,50010.4,1,1,National,40675.35851,129.0912729
+Churn 2P 3P 4P,Television,Connectivity,overall,3,0.45,372506.9471,1,1,National,113157.5054,39.36680884
+Churn 2P 3P 4P,Direct Marketing,Connectivity_Retention,overall,2,0.6,198052,1,1,National,77155.475,152.7396516
+Churn 2P 3P 4P,Search,Connectivity_Unbranded,overall,0.6,0.6,3456.83,1,1,National,2072.980769,21.06198625
+Churn 1P (INT or DTV),Direct Marketing,Connectivity_Retention,overall,5,0.6,198052,1,1,National,77155.475,317.4838358
+Churn 1P (INT or DTV),Outbound Calls,Connectivity_Retention,overall,0.6,0.6,151462.5,1,1,National,54619.875,45.14333937
+Churn 1P (INT or DTV),Online Display,Connectivity_Video,overall,0.6,0.3,50010.4,1,1,National,40675.35851,79.69654186
+Churn 1P (INT or DTV),DoortoDoor,Connectivity,overall,0.3,0.6,58935.99363,1,1,National,50716.16758,22.20823259
+Churn 1P (INT or DTV),Television,Connectivity,overall,0.3,0.6,372506.9471,1,1,National,113157.5054,17.47183374
+Up-sell Play to Play More,Television,Entertainment,overall,1.732867951,0.9,367541.6052,1,1,National,94125.61789,31.15953379
+Up-sell Play to Play More,Radio,Entertainment,overall,6.931471806,0.9,76280.59937,1,1,National,34109.73134,6.204139432
+Up-sell Play to Play More,Search,Entertainment_Unbranded,overall,0.770163534,0.6,3434.05,1,1,National,1512.733158,16.32787032
+Up-sell Play to Play More,DoortoDoor,Connectivity,overall,1.155245301,0.8,58935.99363,1,1,National,50716.16758,33.26323445
+Up-sell Play to Play More,Direct Marketing,Entertainment_Upsell,overall,1.386294361,0.04,1958,1,1,National,1958,255.4971046
+Up-sell Play to Play More,Outbound Calls,Entertainment_Upsell,overall,0.770163534,0.1,39270,1,1,National,24399.75,89.57325738
+Up-sell Play to Play More,Online Display,Entertainment_Banner,overall,1.732867951,0.9,92295.26,1,1,National,17927.32751,15.62251186
+Up-sell Play to Play More,Online Display,Entertainment_Video,overall,0.770163534,0.2,50010.4,1,1,National,17330.64541,13.99603577
+Acquisition Play,Radio,Entertainment,overall,1.73,0.1,76280.59937,1,1,National,34109.73134,141.286305
+Acquisition Play,DoortoDoor,Connectivity,overall,0.77,0.1,58935.99363,1,1,National,50716.16758,251.0070177
+Acquisition Play,Online Display,Entertainment_Video,overall,0.77,0.1,50010.4,1,1,National,17330.64541,735.7388519
+Acquisition Play,Facebook,Entertainment,overall,0.87,0.43,27102.71,1,1,National,7370.038065,35.17065936
+Acquisition Play,Direct Marketing,Entertainment_Acquisition,overall,3.47,0.4,235059.5,1,1,National,80647.28462,284.995459
+Acquisition Play,Email,Entertainment_Acquisition,overall,0.77,0.4,6491.9,1,1,National,2606.561,206.7429182
+Acquisition Play,Promotion,Entertainment,overall,0.01,0.001,110810.2767,1,1,National,61944.08112,300.5523795
+Acquisition Play,Television,Entertainment,overall,3.47,0.1,367541.6052,1,1,National,94125.61789,312.6777734
+Acquisition Play,Outbound Calls,Entertainment_Acquisition,overall,6.93,0.2,38083.5,1,1,National,21273,220.173657
+Acquisition Play,Search,Entertainment_Unbranded,overall,0.77,0.1,3434.05,1,1,National,1512.733158,146.8103445
+Acquisition Play Sports,Television,Entertainment,overall,0.770163534,0.33,367541.6052,1,1,National,94125.61789,93.18291903
+Acquisition Play Sports,Radio,Entertainment,overall,0.770163534,0.22,76280.59937,1,1,National,34109.73134,80.57686227
+Acquisition Play Sports,Search,Entertainment_Unbranded,overall,0.866433976,0.05,3434.05,1,1,National,1512.733158,20.76573183
+Acquisition Play Sports,Online Display,Entertainment_Video,overall,1.386294361,0.1,50010.4,1,1,National,17330.64541,44.92040734
+Acquisition Play Sports,DoortoDoor,Connectivity,overall,1.386294361,0.1,58935.99363,1,1,National,50716.16758,49.65640766
+Acquisition Play Sports,Online Display,Entertainment_Video,overall,0.729628611,0.1,50010.4,1,1,National,17330.64541,159.439761
+Acquisition Play Sports,Outbound Calls,Entertainment_Acquisition,overall,3.465735903,0.95,38083.5,1,1,National,21273,152.4149611
+Acquisition Play Sports,Email,Entertainment_Acquisition,overall,0.729628611,0.05,6491.9,1,1,National,2606.561,134.2593967
+Acquisition Play Sports,Facebook,Entertainment,overall,0.770163534,0.05,27102.71,1,1,National,7370.038065,21.42017596
+Acquisition Play More,Television,Entertainment,overall,1.066380278,0.1,367541.6052,1,1,National,94125.61789,55.71950606
+Acquisition Play More,Radio,Entertainment,overall,6.931471806,0.1,76280.59937,1,1,National,34109.73134,21.21007013
+Acquisition Play More,Email,Entertainment_Acquisition,overall,0.866433976,0.1,6491.9,1,1,National,2606.561,44.44394306
+Acquisition Play More,Facebook,Entertainment,overall,0.990210258,0.9,27102.71,1,1,National,7370.038065,16.08649366
+Acquisition Play More,Online Display,Entertainment_Video,overall,0.866433976,0.1,50010.4,1,1,National,17330.64541,19.99609408
+Acquisition Play More,DoortoDoor,Connectivity,overall,1.732867951,0.1,58935.99363,1,1,National,50716.16758,28.09524476
+Acquisition Play More,Search,Entertainment_Unbranded,overall,1.824071528,0.5,3434.05,1,1,National,1512.733158,8.58169565
+Acquisition Play More,Direct Marketing,Entertainment_Acquisition,overall,6.931471806,0.6,235059.5,1,1,National,80647.28462,30.12204864
+Churn entertainment,Television,Connectivity,overall,0.01,0.6,372506.9471,1,1,National,113157.5054,93.55942641
+Churn entertainment,Search,Entertainment_Unbranded,overall,3,0.05,3434.05,1,1,National,1512.733158,61.42633587
+Churn entertainment,Facebook,Entertainment,overall,0.01,0.05,27102.71,1,1,National,7370.038065,71.19285864
+Churn entertainment,Online Display,Connectivity_Video,overall,3,0.05,50010.4,1,1,National,40675.35851,368.7923339
+Churn entertainment,Direct Marketing,Entertainment_Retention,overall,0.01,0.05,76295.7,1,1,National,21114.28077,16.41357027
+Churn entertainment,Outbound Calls,Entertainment_Retention,overall,0.01,0.05,23472.75,1,1,National,11148.9,44.32343021

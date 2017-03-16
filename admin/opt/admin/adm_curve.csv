@@ -1,301 +1,76 @@
 all_name,dma1_name,sales1_name,sales2_name,chan1_name,max,cpp,hl,hrf,wks, beta ,curvegroup_name
-overall,National,Batteries,AAP,Affliates,171647.9831,1,0.3,0.45,1,57007,weekly
-overall,National,Oil,AAP,Affliates,171647.9831,1,0.3,0.45,1,5091,weekly
-overall,National,Other,AAP,Affliates,171647.9831,1,0.3,0.45,1,45776,weekly
-overall,National,Parts,AAP,Affliates,171647.9831,1,0.3,0.45,1,55670,weekly
-overall,National,Other,AAP,Branded Search,511032,0.067313405,0.3,0.45,1,46571,weekly
-overall,National,Parts,AAP,Branded Search,511032,0.067313405,0.3,0.45,1,186756,weekly
-overall,National,Brakes,AAP,Terrestial Radio-NSO,10000,1,4,0.15,1,12616,weekly
-overall,National,Oil,AAP,Terrestial Radio-NSO,10000,1,4,0.15,1,10531,weekly
-overall,National,Parts,AAP,Terrestial Radio-NSO,10000,1,4,0.15,1,6305,weekly
-overall,National,Batteries,AAP,TV-GM,111.2,16965.37004,2,0.15,1,198331,weekly
-overall,National,Brakes,AAP,TV-GM,111.2,16965.37004,2,0.15,1,741519,weekly
-overall,National,Oil,AAP,TV-GM,111.2,16965.37004,2,0.15,1,9965,weekly
-overall,National,Other,AAP,TV-GM,111.2,16965.37004,2,0.15,1,70811,weekly
-overall,National,Parts,AAP,TV-GM,111.2,16965.37004,2,0.15,1,816075,weekly
-overall,National,Batteries,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,59499,weekly
-overall,National,Brakes,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,222456,weekly
-overall,National,Oil,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,2990,weekly
-overall,National,Other,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,21243,weekly
-overall,National,Parts,AAP,TV-Hispanic,200,3393.074008,2,0.15,1,244823,weekly
-overall,National,Other,AAP,Direct Mail,207614.5,1,1,0.6,1,738702,weekly
-overall,National,Parts,AAP,Direct Mail,207614.5,1,1,0.6,1,340449,weekly
-overall,National,Brakes,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,6186,weekly
-overall,National,Oil,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,9140,weekly
-overall,National,Other,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,162674,weekly
-overall,National,Parts,AAP,Generic Search - Other,150916,0.658079856,0.3,0.2,1,2276223,weekly
-overall,National,Batteries,AAP,Generic Search - Batteries,21794,2.573500105,0.3,0.2,1,1034639,weekly
-overall,National,Other,AAP,Generic Search - Batteries,21794,2.573500105,0.3,0.2,1,272616,weekly
-overall,National,Brakes,AAP,Generic Search - Brakes,14470,1.849444562,0.3,0.2,1,900842,weekly
-overall,National,Batteries,AAP,Display,61317682,0.002550676,2,0.15,1,12134,weekly
-overall,National,Other,AAP,Display,61317682,0.002550676,2,0.15,1,32603,weekly
-overall,National,Parts,AAP,Display,61317682,0.002550676,2,0.15,1,681941,weekly
-overall,National,Batteries,AAP,OOH,50000,1,2,0.15,1,35039,weekly
-overall,National,Other,AAP,OOH,50000,1,2,0.15,1,30064,weekly
-overall,National,Batteries,AAP,Youtube,60000,1,0.3,0.3,1,12088,weekly
-overall,National,Brakes,AAP,Youtube,60000,1,0.3,0.3,1,7891,weekly
-overall,National,Oil,AAP,Youtube,60000,1,0.3,0.3,1,20570,weekly
-overall,National,Other,AAP,Youtube,60000,1,0.3,0.3,1,41454,weekly
-overall,National,Oil,AAP,Social,35000,1,0.3,0.45,1,20240,weekly
-overall,National,Batteries,AAP,Radio - Batteries,117.3,3740.703718,4,0.15,1,983909,weekly
-overall,National,Parts,AAP,Radio - Batteries,117.3,3740.703718,4,0.15,1,428323,weekly
-overall,National,Batteries,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,38446,weekly
-overall,National,Brakes,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,179010,weekly
-overall,National,Other,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,400944,weekly
-overall,National,Parts,AAP,Terrestial Radio-Speed Perk,117.3,3718.300052,4,0.15,1,306062,weekly
-overall,National,Batteries,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,85884,weekly
-overall,National,Brakes,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,350814,weekly
-overall,National,Other,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,895654,weekly
-overall,National,Parts,AAP,Digital Radio-Speed Perk,114833865,0.004598627,4,0.15,1,683700,weekly
-overall,National,Oil,Castrol,Castrol Oil - Direct Mail,187129,1,1,0.6,1,112270,weekly
-overall,National,Oil,Castrol,Castrol Oil - Search,50000,1,0.3,0.15,1,84172,weekly
-overall,National,Oil,Castrol,Castrol Oil - Display,75000,1,1,0.15,1,131733,weekly
-overall,National,Oil,Castrol,Castrol Oil - Social,5000,1,0.3,0.45,1,24938,weekly
-overall,National,Oil,Castrol,Castrol Oil - Radio,100,3229,0.3,0.45,1,717022,weekly
-overall,National,Oil,Mobil,Mobil Oil - Direct Mail,160000,1,1,0.25,1,94814,weekly
-overall,National,Oil,Mobil,Mobil Oil - Search,50000,1,0.3,0.15,1,72395,weekly
-overall,National,Oil,Mobil,Mobil Oil - Display,75000,1,2,0.15,1,99846,weekly
-overall,National,Oil,Mobil,Mobil Oil - Social,5000,1,0.3,0.45,1,14052,weekly
-overall,National,Oil,Mobil,Mobil Oil - Radio,100,3289,0.3,0.45,1,832829,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,160000,1,1,0.25,1,105109,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Search,50000,1,0.3,0.45,1,82540,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Display,75000,1,2,0.15,1,44129,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Social,5000,1,0.3,0.45,1,17453,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,100,3056,0.3,0.45,1,717022,weekly
-overall,National,Oil,Vavoline,Valvoline Oil - Direct Mail,91667,1,1,0.25,1,54056,weekly
-overall,National,Oil,Vavoline,Valvoline Oil - Search,50000,1,0.3,0.15,1,48674,weekly
-overall,National,Oil,Vavoline,Valvoline Oil - Display,75000,1,2,0.15,1,107733,weekly
-overall,National,Oil,Vavoline,Valvoline Oil - Social,5000,1,0.3,0.45,1,11368,weekly
-overall,National,Oil,Vavoline,Valvoline Oil - Radio,100,2969,0.3,0.45,1,772008,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Batteries,AAP,Terrestial Radio-Speed Perk,200,32.76928571,4,0.15,1,17,weekly
-overall,ATLANTA-GA,Batteries,AAP,Terrestial Radio-Speed Perk,200,213.3795699,4,0.15,1,3718,weekly
-overall,AUSTIN-TX,Batteries,AAP,Terrestial Radio-Speed Perk,200,108.976,4,0.15,1,656,weekly
-overall,BALTIMORE-MD,Batteries,AAP,Terrestial Radio-Speed Perk,200,100.593007,4,0.15,1,1328,weekly
-overall,BIRMINGHAM-AL,Batteries,AAP,Terrestial Radio-Speed Perk,200,45.72413793,4,0.15,1,1187,weekly
-overall,BOSTON-MA,Batteries,AAP,Terrestial Radio-Speed Perk,200,222.3681713,4,0.15,1,1358,weekly
-overall,CHARLOTTE-NC,Batteries,AAP,Terrestial Radio-Speed Perk,200,83.06571429,4,0.15,1,2149,weekly
-overall,CHICAGO-IL,Batteries,AAP,Terrestial Radio-Speed Perk,200,272.0589744,4,0.15,1,1479,weekly
-overall,DALLAS-TX,Batteries,AAP,Terrestial Radio-Speed Perk,200,236.9065687,4,0.15,1,925,weekly
-overall,DENVER-CO,Batteries,AAP,Terrestial Radio-Speed Perk,200,99.83121951,4,0.15,1,1188,weekly
-overall,DETROIT-MI,Batteries,AAP,Terrestial Radio-Speed Perk,200,89.16236559,4,0.15,1,647,weekly
-overall,HARRISBURG/LANCASTER-PA,Batteries,AAP,Terrestial Radio-Speed Perk,200,55.68024801,4,0.15,1,1093,weekly
-overall,NEW HAVEN/HARTFORD-CT,Batteries,AAP,Terrestial Radio-Speed Perk,200,69.35301205,4,0.15,1,991,weekly
-overall,HOUSTON-TX,Batteries,AAP,Terrestial Radio-Speed Perk,200,220.378655,4,0.15,1,1411,weekly
-overall,INDIANAPOLIS-IN,Batteries,AAP,Terrestial Radio-Speed Perk,200,87.63803681,4,0.15,1,598,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Batteries,AAP,Terrestial Radio-Speed Perk,200,160.4176656,4,0.15,1,4378,weekly
-overall,MILWAUKEE-WI,Batteries,AAP,Terrestial Radio-Speed Perk,200,84.58924731,4,0.15,1,427,weekly
-overall,TRI-STATE-NY/NJ/CT,Batteries,AAP,Terrestial Radio-Speed Perk,200,345.9797101,4,0.15,1,3340,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Batteries,AAP,Terrestial Radio-Speed Perk,200,86.876,4,0.15,1,3075,weekly
-overall,PHILADELPHIA-PA,Batteries,AAP,Terrestial Radio-Speed Perk,200,153.3914591,4,0.15,1,2105,weekly
-overall,PITTSBURGH-PA,Batteries,AAP,Terrestial Radio-Speed Perk,200,50.29666667,4,0.15,1,1817,weekly
-overall,PORTLAND-OR,Batteries,AAP,Terrestial Radio-Speed Perk,200,97.79054498,4,0.15,1,185,weekly
-overall,RALEIGH-NC,Batteries,AAP,Terrestial Radio-Speed Perk,200,56.72316951,4,0.15,1,2112,weekly
-overall,SALT LAKE CITY-UT,Batteries,AAP,Terrestial Radio-Speed Perk,200,65.61376344,4,0.15,1,185,weekly
-overall,SAN ANTONIO-TX,Batteries,AAP,Terrestial Radio-Speed Perk,200,79.62943723,4,0.15,1,560,weekly
-overall,SEATTLE-WA,Batteries,AAP,Terrestial Radio-Speed Perk,200,179.9389616,4,0.15,1,185,weekly
-overall,ST. LOUIS-MO,Batteries,AAP,Terrestial Radio-Speed Perk,200,97.74715909,4,0.15,1,498,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Batteries,AAP,Terrestial Radio-Speed Perk,200,70.05411197,4,0.15,1,3945,weekly
-overall,WASHINGTON D.C.,Batteries,AAP,Terrestial Radio-Speed Perk,200,233.9553571,4,0.15,1,3646,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Brakes,AAP,Terrestial Radio-Speed Perk,200,32.76928571,4,0.15,1,81,weekly
-overall,ATLANTA-GA,Brakes,AAP,Terrestial Radio-Speed Perk,200,213.3795699,4,0.15,1,12458,weekly
-overall,AUSTIN-TX,Brakes,AAP,Terrestial Radio-Speed Perk,200,108.976,4,0.15,1,1893,weekly
-overall,BALTIMORE-MD,Brakes,AAP,Terrestial Radio-Speed Perk,200,100.593007,4,0.15,1,9241,weekly
-overall,BIRMINGHAM-AL,Brakes,AAP,Terrestial Radio-Speed Perk,200,45.72413793,4,0.15,1,3930,weekly
-overall,BOSTON-MA,Brakes,AAP,Terrestial Radio-Speed Perk,200,222.3681713,4,0.15,1,11006,weekly
-overall,CHARLOTTE-NC,Brakes,AAP,Terrestial Radio-Speed Perk,200,83.06571429,4,0.15,1,6281,weekly
-overall,CHICAGO-IL,Brakes,AAP,Terrestial Radio-Speed Perk,200,272.0589744,4,0.15,1,13979,weekly
-overall,DALLAS-TX,Brakes,AAP,Terrestial Radio-Speed Perk,200,236.9065687,4,0.15,1,4285,weekly
-overall,DENVER-CO,Brakes,AAP,Terrestial Radio-Speed Perk,200,99.83121951,4,0.15,1,4478,weekly
-overall,DETROIT-MI,Brakes,AAP,Terrestial Radio-Speed Perk,200,89.16236559,4,0.15,1,4743,weekly
-overall,HARRISBURG/LANCASTER-PA,Brakes,AAP,Terrestial Radio-Speed Perk,200,55.68024801,4,0.15,1,6833,weekly
-overall,NEW HAVEN/HARTFORD-CT,Brakes,AAP,Terrestial Radio-Speed Perk,200,69.35301205,4,0.15,1,8066,weekly
-overall,HOUSTON-TX,Brakes,AAP,Terrestial Radio-Speed Perk,200,220.378655,4,0.15,1,4207,weekly
-overall,INDIANAPOLIS-IN,Brakes,AAP,Terrestial Radio-Speed Perk,200,87.63803681,4,0.15,1,4060,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Brakes,AAP,Terrestial Radio-Speed Perk,200,160.4176656,4,0.15,1,8978,weekly
-overall,MILWAUKEE-WI,Brakes,AAP,Terrestial Radio-Speed Perk,200,84.58924731,4,0.15,1,5720,weekly
-overall,TRI-STATE-NY/NJ/CT,Brakes,AAP,Terrestial Radio-Speed Perk,200,345.9797101,4,0.15,1,20663,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Brakes,AAP,Terrestial Radio-Speed Perk,200,86.876,4,0.15,1,8299,weekly
-overall,PHILADELPHIA-PA,Brakes,AAP,Terrestial Radio-Speed Perk,200,153.3914591,4,0.15,1,14473,weekly
-overall,PITTSBURGH-PA,Brakes,AAP,Terrestial Radio-Speed Perk,200,50.29666667,4,0.15,1,13823,weekly
-overall,PORTLAND-OR,Brakes,AAP,Terrestial Radio-Speed Perk,200,97.79054498,4,0.15,1,857,weekly
-overall,RALEIGH-NC,Brakes,AAP,Terrestial Radio-Speed Perk,200,56.72316951,4,0.15,1,5921,weekly
-overall,SALT LAKE CITY-UT,Brakes,AAP,Terrestial Radio-Speed Perk,200,65.61376344,4,0.15,1,857,weekly
-overall,SAN ANTONIO-TX,Brakes,AAP,Terrestial Radio-Speed Perk,200,79.62943723,4,0.15,1,1622,weekly
-overall,SEATTLE-WA,Brakes,AAP,Terrestial Radio-Speed Perk,200,179.9389616,4,0.15,1,857,weekly
-overall,ST. LOUIS-MO,Brakes,AAP,Terrestial Radio-Speed Perk,200,97.74715909,4,0.15,1,2475,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Brakes,AAP,Terrestial Radio-Speed Perk,200,70.05411197,4,0.15,1,10540,weekly
-overall,WASHINGTON D.C.,Brakes,AAP,Terrestial Radio-Speed Perk,200,233.9553571,4,0.15,1,19845,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Other,AAP,Terrestial Radio-Speed Perk,200,32.76928571,4,0.15,1,297,weekly
-overall,ATLANTA-GA,Other,AAP,Terrestial Radio-Speed Perk,200,213.3795699,4,0.15,1,33527,weekly
-overall,AUSTIN-TX,Other,AAP,Terrestial Radio-Speed Perk,200,108.976,4,0.15,1,5605,weekly
-overall,BALTIMORE-MD,Other,AAP,Terrestial Radio-Speed Perk,200,100.593007,4,0.15,1,15681,weekly
-overall,BIRMINGHAM-AL,Other,AAP,Terrestial Radio-Speed Perk,200,45.72413793,4,0.15,1,9737,weekly
-overall,BOSTON-MA,Other,AAP,Terrestial Radio-Speed Perk,200,222.3681713,4,0.15,1,20379,weekly
-overall,CHARLOTTE-NC,Other,AAP,Terrestial Radio-Speed Perk,200,83.06571429,4,0.15,1,18038,weekly
-overall,CHICAGO-IL,Other,AAP,Terrestial Radio-Speed Perk,200,272.0589744,4,0.15,1,21365,weekly
-overall,DALLAS-TX,Other,AAP,Terrestial Radio-Speed Perk,200,236.9065687,4,0.15,1,9457,weekly
-overall,DENVER-CO,Other,AAP,Terrestial Radio-Speed Perk,200,99.83121951,4,0.15,1,13394,weekly
-overall,DETROIT-MI,Other,AAP,Terrestial Radio-Speed Perk,200,89.16236559,4,0.15,1,7871,weekly
-overall,HARRISBURG/LANCASTER-PA,Other,AAP,Terrestial Radio-Speed Perk,200,55.68024801,4,0.15,1,12333,weekly
-overall,NEW HAVEN/HARTFORD-CT,Other,AAP,Terrestial Radio-Speed Perk,200,69.35301205,4,0.15,1,12470,weekly
-overall,HOUSTON-TX,Other,AAP,Terrestial Radio-Speed Perk,200,220.378655,4,0.15,1,14416,weekly
-overall,INDIANAPOLIS-IN,Other,AAP,Terrestial Radio-Speed Perk,200,87.63803681,4,0.15,1,6829,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Other,AAP,Terrestial Radio-Speed Perk,200,160.4176656,4,0.15,1,36641,weekly
-overall,MILWAUKEE-WI,Other,AAP,Terrestial Radio-Speed Perk,200,84.58924731,4,0.15,1,6698,weekly
-overall,TRI-STATE-NY/NJ/CT,Other,AAP,Terrestial Radio-Speed Perk,200,345.9797101,4,0.15,1,44126,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Other,AAP,Terrestial Radio-Speed Perk,200,86.876,4,0.15,1,27054,weekly
-overall,PHILADELPHIA-PA,Other,AAP,Terrestial Radio-Speed Perk,200,153.3914591,4,0.15,1,26435,weekly
-overall,PITTSBURGH-PA,Other,AAP,Terrestial Radio-Speed Perk,200,50.29666667,4,0.15,1,18758,weekly
-overall,PORTLAND-OR,Other,AAP,Terrestial Radio-Speed Perk,200,97.79054498,4,0.15,1,1891,weekly
-overall,RALEIGH-NC,Other,AAP,Terrestial Radio-Speed Perk,200,56.72316951,4,0.15,1,17176,weekly
-overall,SALT LAKE CITY-UT,Other,AAP,Terrestial Radio-Speed Perk,200,65.61376344,4,0.15,1,1891,weekly
-overall,SAN ANTONIO-TX,Other,AAP,Terrestial Radio-Speed Perk,200,79.62943723,4,0.15,1,6105,weekly
-overall,SEATTLE-WA,Other,AAP,Terrestial Radio-Speed Perk,200,179.9389616,4,0.15,1,1891,weekly
-overall,ST. LOUIS-MO,Other,AAP,Terrestial Radio-Speed Perk,200,97.74715909,4,0.15,1,5434,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Other,AAP,Terrestial Radio-Speed Perk,200,70.05411197,4,0.15,1,33682,weekly
-overall,WASHINGTON D.C.,Other,AAP,Terrestial Radio-Speed Perk,200,233.9553571,4,0.15,1,42234,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Parts,AAP,Terrestial Radio-Speed Perk,200,32.76928571,4,0.15,1,365,weekly
-overall,ATLANTA-GA,Parts,AAP,Terrestial Radio-Speed Perk,200,213.3795699,4,0.15,1,27525,weekly
-overall,AUSTIN-TX,Parts,AAP,Terrestial Radio-Speed Perk,200,108.976,4,0.15,1,4947,weekly
-overall,BALTIMORE-MD,Parts,AAP,Terrestial Radio-Speed Perk,200,100.593007,4,0.15,1,10248,weekly
-overall,BIRMINGHAM-AL,Parts,AAP,Terrestial Radio-Speed Perk,200,45.72413793,4,0.15,1,9377,weekly
-overall,BOSTON-MA,Parts,AAP,Terrestial Radio-Speed Perk,200,222.3681713,4,0.15,1,13626,weekly
-overall,CHARLOTTE-NC,Parts,AAP,Terrestial Radio-Speed Perk,200,83.06571429,4,0.15,1,15654,weekly
-overall,CHICAGO-IL,Parts,AAP,Terrestial Radio-Speed Perk,200,272.0589744,4,0.15,1,18703,weekly
-overall,DALLAS-TX,Parts,AAP,Terrestial Radio-Speed Perk,200,236.9065687,4,0.15,1,7978,weekly
-overall,DENVER-CO,Parts,AAP,Terrestial Radio-Speed Perk,200,99.83121951,4,0.15,1,10208,weekly
-overall,DETROIT-MI,Parts,AAP,Terrestial Radio-Speed Perk,200,89.16236559,4,0.15,1,6430,weekly
-overall,HARRISBURG/LANCASTER-PA,Parts,AAP,Terrestial Radio-Speed Perk,200,55.68024801,4,0.15,1,10576,weekly
-overall,NEW HAVEN/HARTFORD-CT,Parts,AAP,Terrestial Radio-Speed Perk,200,69.35301205,4,0.15,1,10322,weekly
-overall,HOUSTON-TX,Parts,AAP,Terrestial Radio-Speed Perk,200,220.378655,4,0.15,1,11383,weekly
-overall,INDIANAPOLIS-IN,Parts,AAP,Terrestial Radio-Speed Perk,200,87.63803681,4,0.15,1,6981,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Parts,AAP,Terrestial Radio-Speed Perk,200,160.4176656,4,0.15,1,22419,weekly
-overall,MILWAUKEE-WI,Parts,AAP,Terrestial Radio-Speed Perk,200,84.58924731,4,0.15,1,7091,weekly
-overall,TRI-STATE-NY/NJ/CT,Parts,AAP,Terrestial Radio-Speed Perk,200,345.9797101,4,0.15,1,26217,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Parts,AAP,Terrestial Radio-Speed Perk,200,86.876,4,0.15,1,22072,weekly
-overall,PHILADELPHIA-PA,Parts,AAP,Terrestial Radio-Speed Perk,200,153.3914591,4,0.15,1,19492,weekly
-overall,PITTSBURGH-PA,Parts,AAP,Terrestial Radio-Speed Perk,200,50.29666667,4,0.15,1,14652,weekly
-overall,PORTLAND-OR,Parts,AAP,Terrestial Radio-Speed Perk,200,97.79054498,4,0.15,1,1596,weekly
-overall,RALEIGH-NC,Parts,AAP,Terrestial Radio-Speed Perk,200,56.72316951,4,0.15,1,13819,weekly
-overall,SALT LAKE CITY-UT,Parts,AAP,Terrestial Radio-Speed Perk,200,65.61376344,4,0.15,1,1596,weekly
-overall,SAN ANTONIO-TX,Parts,AAP,Terrestial Radio-Speed Perk,200,79.62943723,4,0.15,1,5589,weekly
-overall,SEATTLE-WA,Parts,AAP,Terrestial Radio-Speed Perk,200,179.9389616,4,0.15,1,1596,weekly
-overall,ST. LOUIS-MO,Parts,AAP,Terrestial Radio-Speed Perk,200,97.74715909,4,0.15,1,4706,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Parts,AAP,Terrestial Radio-Speed Perk,200,70.05411197,4,0.15,1,27644,weekly
-overall,WASHINGTON D.C.,Parts,AAP,Terrestial Radio-Speed Perk,200,233.9553571,4,0.15,1,27045,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Batteries,AAP,Digital Radio-Speed Perk,52544,0.004598627,4,0.15,1,8,weekly
-overall,ATLANTA-GA,Batteries,AAP,Digital Radio-Speed Perk,3961957,0.004598627,4,0.15,1,1727,weekly
-overall,AUSTIN-TX,Batteries,AAP,Digital Radio-Speed Perk,712072,0.004598627,4,0.15,1,305,weekly
-overall,BALTIMORE-MD,Batteries,AAP,Digital Radio-Speed Perk,1475142,0.004598627,4,0.15,1,617,weekly
-overall,BIRMINGHAM-AL,Batteries,AAP,Digital Radio-Speed Perk,1349695,0.004598627,4,0.15,1,551,weekly
-overall,BOSTON-MA,Batteries,AAP,Digital Radio-Speed Perk,1961317,0.004598627,4,0.15,1,631,weekly
-overall,CHARLOTTE-NC,Batteries,AAP,Digital Radio-Speed Perk,2253295,0.004598627,4,0.15,1,998,weekly
-overall,CHICAGO-IL,Batteries,AAP,Digital Radio-Speed Perk,2692147,0.004598627,4,0.15,1,687,weekly
-overall,DALLAS-TX,Batteries,AAP,Digital Radio-Speed Perk,1148339,0.004598627,4,0.15,1,429,weekly
-overall,DENVER-CO,Batteries,AAP,Digital Radio-Speed Perk,1469320,0.004598627,4,0.15,1,552,weekly
-overall,DETROIT-MI,Batteries,AAP,Digital Radio-Speed Perk,925499,0.004598627,4,0.15,1,300,weekly
-overall,HARRISBURG/LANCASTER-PA,Batteries,AAP,Digital Radio-Speed Perk,1522325,0.004598627,4,0.15,1,508,weekly
-overall,NEW HAVEN/HARTFORD-CT,Batteries,AAP,Digital Radio-Speed Perk,1485704,0.004598627,4,0.15,1,460,weekly
-overall,HOUSTON-TX,Batteries,AAP,Digital Radio-Speed Perk,1638537,0.004598627,4,0.15,1,656,weekly
-overall,INDIANAPOLIS-IN,Batteries,AAP,Digital Radio-Speed Perk,1004849,0.004598627,4,0.15,1,278,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Batteries,AAP,Digital Radio-Speed Perk,3226959,0.004598627,4,0.15,1,2033,weekly
-overall,MILWAUKEE-WI,Batteries,AAP,Digital Radio-Speed Perk,1020683,0.004598627,4,0.15,1,198,weekly
-overall,TRI-STATE-NY/NJ/CT,Batteries,AAP,Digital Radio-Speed Perk,3773757,0.004598627,4,0.15,1,1551,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Batteries,AAP,Digital Radio-Speed Perk,3177126,0.004598627,4,0.15,1,1428,weekly
-overall,PHILADELPHIA-PA,Batteries,AAP,Digital Radio-Speed Perk,2805660,0.004598627,4,0.15,1,978,weekly
-overall,PITTSBURGH-PA,Batteries,AAP,Digital Radio-Speed Perk,2109020,0.004598627,4,0.15,1,844,weekly
-overall,PORTLAND-OR,Batteries,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,86,weekly
-overall,RALEIGH-NC,Batteries,AAP,Digital Radio-Speed Perk,1989120,0.004598627,4,0.15,1,981,weekly
-overall,SALT LAKE CITY-UT,Batteries,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,86,weekly
-overall,SAN ANTONIO-TX,Batteries,AAP,Digital Radio-Speed Perk,804419,0.004598627,4,0.15,1,260,weekly
-overall,SEATTLE-WA,Batteries,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,86,weekly
-overall,ST. LOUIS-MO,Batteries,AAP,Digital Radio-Speed Perk,677362,0.004598627,4,0.15,1,231,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Batteries,AAP,Digital Radio-Speed Perk,3979141,0.004598627,4,0.15,1,1832,weekly
-overall,WASHINGTON D.C.,Batteries,AAP,Digital Radio-Speed Perk,3892808,0.004598627,4,0.15,1,1693,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Brakes,AAP,Digital Radio-Speed Perk,52544,0.004598627,4,0.15,1,33,weekly
-overall,ATLANTA-GA,Brakes,AAP,Digital Radio-Speed Perk,3961957,0.004598627,4,0.15,1,5099,weekly
-overall,AUSTIN-TX,Brakes,AAP,Digital Radio-Speed Perk,712072,0.004598627,4,0.15,1,775,weekly
-overall,BALTIMORE-MD,Brakes,AAP,Digital Radio-Speed Perk,1475142,0.004598627,4,0.15,1,3782,weekly
-overall,BIRMINGHAM-AL,Brakes,AAP,Digital Radio-Speed Perk,1349695,0.004598627,4,0.15,1,1609,weekly
-overall,BOSTON-MA,Brakes,AAP,Digital Radio-Speed Perk,1961317,0.004598627,4,0.15,1,4505,weekly
-overall,CHARLOTTE-NC,Brakes,AAP,Digital Radio-Speed Perk,2253295,0.004598627,4,0.15,1,2571,weekly
-overall,CHICAGO-IL,Brakes,AAP,Digital Radio-Speed Perk,2692147,0.004598627,4,0.15,1,5722,weekly
-overall,DALLAS-TX,Brakes,AAP,Digital Radio-Speed Perk,1148339,0.004598627,4,0.15,1,1754,weekly
-overall,DENVER-CO,Brakes,AAP,Digital Radio-Speed Perk,1469320,0.004598627,4,0.15,1,1833,weekly
-overall,DETROIT-MI,Brakes,AAP,Digital Radio-Speed Perk,925499,0.004598627,4,0.15,1,1941,weekly
-overall,HARRISBURG/LANCASTER-PA,Brakes,AAP,Digital Radio-Speed Perk,1522325,0.004598627,4,0.15,1,2797,weekly
-overall,NEW HAVEN/HARTFORD-CT,Brakes,AAP,Digital Radio-Speed Perk,1485704,0.004598627,4,0.15,1,3301,weekly
-overall,HOUSTON-TX,Brakes,AAP,Digital Radio-Speed Perk,1638537,0.004598627,4,0.15,1,1722,weekly
-overall,INDIANAPOLIS-IN,Brakes,AAP,Digital Radio-Speed Perk,1004849,0.004598627,4,0.15,1,1662,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Brakes,AAP,Digital Radio-Speed Perk,3226959,0.004598627,4,0.15,1,3675,weekly
-overall,MILWAUKEE-WI,Brakes,AAP,Digital Radio-Speed Perk,1020683,0.004598627,4,0.15,1,2341,weekly
-overall,TRI-STATE-NY/NJ/CT,Brakes,AAP,Digital Radio-Speed Perk,3773757,0.004598627,4,0.15,1,8458,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Brakes,AAP,Digital Radio-Speed Perk,3177126,0.004598627,4,0.15,1,3397,weekly
-overall,PHILADELPHIA-PA,Brakes,AAP,Digital Radio-Speed Perk,2805660,0.004598627,4,0.15,1,5924,weekly
-overall,PITTSBURGH-PA,Brakes,AAP,Digital Radio-Speed Perk,2109020,0.004598627,4,0.15,1,5658,weekly
-overall,PORTLAND-OR,Brakes,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,351,weekly
-overall,RALEIGH-NC,Brakes,AAP,Digital Radio-Speed Perk,1989120,0.004598627,4,0.15,1,2424,weekly
-overall,SALT LAKE CITY-UT,Brakes,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,351,weekly
-overall,SAN ANTONIO-TX,Brakes,AAP,Digital Radio-Speed Perk,804419,0.004598627,4,0.15,1,664,weekly
-overall,SEATTLE-WA,Brakes,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,351,weekly
-overall,ST. LOUIS-MO,Brakes,AAP,Digital Radio-Speed Perk,677362,0.004598627,4,0.15,1,1013,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Brakes,AAP,Digital Radio-Speed Perk,3979141,0.004598627,4,0.15,1,4314,weekly
-overall,WASHINGTON D.C.,Brakes,AAP,Digital Radio-Speed Perk,3892808,0.004598627,4,0.15,1,8123,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Other,AAP,Digital Radio-Speed Perk,52544,0.004598627,4,0.15,1,141,weekly
-overall,ATLANTA-GA,Other,AAP,Digital Radio-Speed Perk,3961957,0.004598627,4,0.15,1,15877,weekly
-overall,AUSTIN-TX,Other,AAP,Digital Radio-Speed Perk,712072,0.004598627,4,0.15,1,2654,weekly
-overall,BALTIMORE-MD,Other,AAP,Digital Radio-Speed Perk,1475142,0.004598627,4,0.15,1,7426,weekly
-overall,BIRMINGHAM-AL,Other,AAP,Digital Radio-Speed Perk,1349695,0.004598627,4,0.15,1,4611,weekly
-overall,BOSTON-MA,Other,AAP,Digital Radio-Speed Perk,1961317,0.004598627,4,0.15,1,9651,weekly
-overall,CHARLOTTE-NC,Other,AAP,Digital Radio-Speed Perk,2253295,0.004598627,4,0.15,1,8542,weekly
-overall,CHICAGO-IL,Other,AAP,Digital Radio-Speed Perk,2692147,0.004598627,4,0.15,1,10117,weekly
-overall,DALLAS-TX,Other,AAP,Digital Radio-Speed Perk,1148339,0.004598627,4,0.15,1,4478,weekly
-overall,DENVER-CO,Other,AAP,Digital Radio-Speed Perk,1469320,0.004598627,4,0.15,1,6343,weekly
-overall,DETROIT-MI,Other,AAP,Digital Radio-Speed Perk,925499,0.004598627,4,0.15,1,3727,weekly
-overall,HARRISBURG/LANCASTER-PA,Other,AAP,Digital Radio-Speed Perk,1522325,0.004598627,4,0.15,1,5840,weekly
-overall,NEW HAVEN/HARTFORD-CT,Other,AAP,Digital Radio-Speed Perk,1485704,0.004598627,4,0.15,1,5905,weekly
-overall,HOUSTON-TX,Other,AAP,Digital Radio-Speed Perk,1638537,0.004598627,4,0.15,1,6826,weekly
-overall,INDIANAPOLIS-IN,Other,AAP,Digital Radio-Speed Perk,1004849,0.004598627,4,0.15,1,3234,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Other,AAP,Digital Radio-Speed Perk,3226959,0.004598627,4,0.15,1,17351,weekly
-overall,MILWAUKEE-WI,Other,AAP,Digital Radio-Speed Perk,1020683,0.004598627,4,0.15,1,3172,weekly
-overall,TRI-STATE-NY/NJ/CT,Other,AAP,Digital Radio-Speed Perk,3773757,0.004598627,4,0.15,1,20896,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Other,AAP,Digital Radio-Speed Perk,3177126,0.004598627,4,0.15,1,12811,weekly
-overall,PHILADELPHIA-PA,Other,AAP,Digital Radio-Speed Perk,2805660,0.004598627,4,0.15,1,12518,weekly
-overall,PITTSBURGH-PA,Other,AAP,Digital Radio-Speed Perk,2109020,0.004598627,4,0.15,1,8883,weekly
-overall,PORTLAND-OR,Other,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,896,weekly
-overall,RALEIGH-NC,Other,AAP,Digital Radio-Speed Perk,1989120,0.004598627,4,0.15,1,8134,weekly
-overall,SALT LAKE CITY-UT,Other,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,896,weekly
-overall,SAN ANTONIO-TX,Other,AAP,Digital Radio-Speed Perk,804419,0.004598627,4,0.15,1,2891,weekly
-overall,SEATTLE-WA,Other,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,896,weekly
-overall,ST. LOUIS-MO,Other,AAP,Digital Radio-Speed Perk,677362,0.004598627,4,0.15,1,2573,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Other,AAP,Digital Radio-Speed Perk,3979141,0.004598627,4,0.15,1,15950,weekly
-overall,WASHINGTON D.C.,Other,AAP,Digital Radio-Speed Perk,3892808,0.004598627,4,0.15,1,20000,weekly
-overall,ALBUQUERQUE/SANTA FE-NM,Parts,AAP,Digital Radio-Speed Perk,52544,0.004598627,4,0.15,1,156,weekly
-overall,ATLANTA-GA,Parts,AAP,Digital Radio-Speed Perk,3961957,0.004598627,4,0.15,1,11794,weekly
-overall,AUSTIN-TX,Parts,AAP,Digital Radio-Speed Perk,712072,0.004598627,4,0.15,1,2120,weekly
-overall,BALTIMORE-MD,Parts,AAP,Digital Radio-Speed Perk,1475142,0.004598627,4,0.15,1,4391,weekly
-overall,BIRMINGHAM-AL,Parts,AAP,Digital Radio-Speed Perk,1349695,0.004598627,4,0.15,1,4018,weekly
-overall,BOSTON-MA,Parts,AAP,Digital Radio-Speed Perk,1961317,0.004598627,4,0.15,1,5839,weekly
-overall,CHARLOTTE-NC,Parts,AAP,Digital Radio-Speed Perk,2253295,0.004598627,4,0.15,1,6708,weekly
-overall,CHICAGO-IL,Parts,AAP,Digital Radio-Speed Perk,2692147,0.004598627,4,0.15,1,8014,weekly
-overall,DALLAS-TX,Parts,AAP,Digital Radio-Speed Perk,1148339,0.004598627,4,0.15,1,3418,weekly
-overall,DENVER-CO,Parts,AAP,Digital Radio-Speed Perk,1469320,0.004598627,4,0.15,1,4374,weekly
-overall,DETROIT-MI,Parts,AAP,Digital Radio-Speed Perk,925499,0.004598627,4,0.15,1,2755,weekly
-overall,HARRISBURG/LANCASTER-PA,Parts,AAP,Digital Radio-Speed Perk,1522325,0.004598627,4,0.15,1,4532,weekly
-overall,NEW HAVEN/HARTFORD-CT,Parts,AAP,Digital Radio-Speed Perk,1485704,0.004598627,4,0.15,1,4423,weekly
-overall,HOUSTON-TX,Parts,AAP,Digital Radio-Speed Perk,1638537,0.004598627,4,0.15,1,4878,weekly
-overall,INDIANAPOLIS-IN,Parts,AAP,Digital Radio-Speed Perk,1004849,0.004598627,4,0.15,1,2991,weekly
-overall,MIAMI/FT. LAUDERDALE-FL,Parts,AAP,Digital Radio-Speed Perk,3226959,0.004598627,4,0.15,1,9606,weekly
-overall,MILWAUKEE-WI,Parts,AAP,Digital Radio-Speed Perk,1020683,0.004598627,4,0.15,1,3038,weekly
-overall,TRI-STATE-NY/NJ/CT,Parts,AAP,Digital Radio-Speed Perk,3773757,0.004598627,4,0.15,1,11234,weekly
-overall,ORLANDO/DAYTONA/MELBOURNE-FL,Parts,AAP,Digital Radio-Speed Perk,3177126,0.004598627,4,0.15,1,9458,weekly
-overall,PHILADELPHIA-PA,Parts,AAP,Digital Radio-Speed Perk,2805660,0.004598627,4,0.15,1,8352,weekly
-overall,PITTSBURGH-PA,Parts,AAP,Digital Radio-Speed Perk,2109020,0.004598627,4,0.15,1,6278,weekly
-overall,PORTLAND-OR,Parts,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,684,weekly
-overall,RALEIGH-NC,Parts,AAP,Digital Radio-Speed Perk,1989120,0.004598627,4,0.15,1,5921,weekly
-overall,SALT LAKE CITY-UT,Parts,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,684,weekly
-overall,SAN ANTONIO-TX,Parts,AAP,Digital Radio-Speed Perk,804419,0.004598627,4,0.15,1,2395,weekly
-overall,SEATTLE-WA,Parts,AAP,Digital Radio-Speed Perk,229668,0.004598627,4,0.15,1,684,weekly
-overall,ST. LOUIS-MO,Parts,AAP,Digital Radio-Speed Perk,677362,0.004598627,4,0.15,1,2016,weekly
-overall,TAMPA/ST. PETE/LAKELAND-FL,Parts,AAP,Digital Radio-Speed Perk,3979141,0.004598627,4,0.15,1,11846,weekly
-overall,WASHINGTON D.C.,Parts,AAP,Digital Radio-Speed Perk,3892808,0.004598627,4,0.15,1,11589,weekly
+overall,National,Batteries,AAP,Affliates,150000,1,0.3,0.45,1,2942013.48,weekly
+overall,National,Batteries,AAP,Display - Batteries,2536104,0.003250031,2,0.15,1,575968.4194,weekly
+overall,National,Batteries,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,1919042.109,weekly
+overall,National,Batteries,AAP,Email,20000,1,1,0.6,1,1382856.807,weekly
+overall,National,Batteries,AAP,Generic Search - Batteries,10856,3.201938523,0.3,0.2,1,30106794.86,weekly
+overall,National,Batteries,AAP,OOH,140339076.4,0.001471441,4,0.15,1,1131868.435,weekly
+overall,National,Batteries,AAP,Radio - Batteries,125.38,2975.600508,4,0.15,1,18991366.91,weekly
+overall,National,Batteries,AAP,Radio - BOPUS,50000,1.75,4,0.15,1,73314.58737,weekly
+overall,National,Batteries,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,486188.3486,weekly
+overall,National,Batteries,AAP,Terrestial Radio-Speed Perk,75.85,2919.803716,4,0.15,1,16720910.1,weekly
+overall,National,Batteries,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,1776019.609,weekly
+overall,National,Batteries,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,274122.2409,weekly
+overall,National,Brakes,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,1878627.004,weekly
+overall,National,Brakes,AAP,Email,20000,1,1,0.6,1,616898.567,weekly
+overall,National,Brakes,AAP,Generic Search - Brakes,5298,2.148851407,0.3,0.2,1,18660495.27,weekly
+overall,National,Brakes,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,197686.6332,weekly
+overall,National,Brakes,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,35073.28202,weekly
+overall,National,Brakes,AAP,Radio - Oil,67.3,3087.286077,4,0.15,1,1024032.92,weekly
+overall,National,Brakes,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,6119900.092,weekly
+overall,National,Brakes,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,583045.6501,weekly
+overall,National,Brakes,AAP,Terrestial Radio-Speed Perk,75.85,2919.803716,4,0.15,1,8815904.99,weekly
+overall,National,Brakes,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,19566330.96,weekly
+overall,National,Brakes,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,214149.3845,weekly
+overall,National,Oil,AAP,Affliates,150000,1,0.3,0.45,1,311982.062,weekly
+overall,National,Oil,Castrol,Castrol Oil - Direct Mail,498909,0.324142198,1,0.6,1,1780731.015,weekly
+overall,National,Oil,Castrol,Castrol Oil - Display,23919610,0.002484594,1,0.15,1,1526832.228,weekly
+overall,National,Oil,Castrol,Castrol Oil - Radio,67.3,3097.061887,0.3,0.45,1,2894201.983,weekly
+overall,National,Oil,Castrol,Castrol Oil - Search,4254,5.609965447,0.3,0.15,1,1138084.614,weekly
+overall,National,Oil,AAP,Email,20000,1,1,0.6,1,75799.83575,weekly
+overall,National,Oil,Mobil,Mobil Oil - Direct Mail,498909,0.324142198,1,0.6,1,876692.2322,weekly
+overall,National,Oil,Mobil,Mobil Oil - Display,28537159,0.002416794,1,0.15,1,4307237.125,weekly
+overall,National,Oil,Mobil,Mobil Oil - Radio,28,3201.253,0.3,0.45,1,1368255.954,weekly
+overall,National,Oil,Mobil,Mobil Oil - Search,3048,5.240140143,0.3,0.15,1,650444.865,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,498909,0.324142198,1,0.6,1,1472922.827,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Display,8302435,0.002636958,1,0.15,1,1029577.561,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,60.19,2955.836901,0.3,0.45,1,2250564.758,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Search,1133,5.354633931,0.3,0.15,1,186798.5902,weekly
+overall,National,Oil,AAP,Social,4819328,0.010636604,0.3,0.45,1,593265.7275,weekly
+overall,National,Oil,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,119768.0404,weekly
+overall,National,Oil,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,1457698.444,weekly
+overall,National,Oil,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,191908.7528,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Direct Mail,498909,0.324142198,1,0.6,1,504023.5697,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Display,18299433,0.002224043,1,0.15,1,786995.9237,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Radio,45.3,3244.532077,0.3,0.45,1,796902.4042,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Search,6774,5.789787871,0.3,0.15,1,1192148.389,weekly
+overall,National,Oil,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,574559.1214,weekly
+overall,National,Other,AAP,Affliates,150000,1,0.3,0.45,1,1630241.229,weekly
+overall,National,Other,AAP,Branded Search,571570,0.055475722,0.3,0.45,1,4049879.149,weekly
+overall,National,Other,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,922312.1211,weekly
+overall,National,Other,AAP,Display - Other,20770824,0.003100948,2,0.15,1,12435630.64,weekly
+overall,National,Other,AAP,DM,498909,0.324142198,1,0.6,1,31569397.88,weekly
+overall,National,Other,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,52332645.66,weekly
+overall,National,Other,AAP,OOH,140339076.4,0.001471441,4,0.15,1,361973.6159,weekly
+overall,National,Other,AAP,Radio - BOPUS,50000,1.75,4,0.15,1,4587553.89,weekly
+overall,National,Other,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,187158.1397,weekly
+overall,National,Other,AAP,Radio - Parts,45.45,3127.953472,4,0.15,1,342995.2463,weekly
+overall,National,Other,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,101761.9019,weekly
+overall,National,Parts,AAP,Affliates,150000,1,0.3,0.45,1,4697049.316,weekly
+overall,National,Parts,AAP,Branded Search,571570,0.055475722,0.3,0.45,1,8093688.548,weekly
+overall,National,Parts,AAP,Display - Other,20770824,0.003100948,2,0.15,1,15174314.48,weekly
+overall,National,Parts,AAP,DM,498909,0.324142198,1,0.6,1,24191323.35,weekly
+overall,National,Parts,AAP,Email,20000,1,1,0.6,1,1521142.488,weekly
+overall,National,Parts,AAP,Generic Search - Batteries,10856,3.201938523,0.3,0.2,1,5159940.188,weekly
+overall,National,Parts,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,38239780.71,weekly
+overall,National,Parts,AAP,Generic Search - Parts,15266,2.015738106,0.3,0.2,1,42550748.19,weekly
+overall,National,Parts,AAP,Radio - Batteries,125.38,2975.600508,4,0.15,1,10238452.54,weekly
+overall,National,Parts,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,218579.9902,weekly
+overall,National,Parts,AAP,Radio - Parts,45.45,3127.953472,4,0.15,1,3688511.034,weekly
+overall,National,Parts,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,28515667.63,weekly
+overall,National,Parts,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,467662.1842,weekly
+overall,National,Parts,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,22539865.84,weekly
+overall,Local,Batteries,AAP,Local Radio,250000,1,4,0.15,1,4551328.251,weekly
+overall,Local,Brakes,AAP,Local Radio,250000,1,4,0.15,1,1611022.664,weekly
+overall,Local,Other,AAP,Local Radio,250000,1,4,0.15,1,683797.0203,weekly
+overall,Local,Parts,AAP,Local Radio,250000,1,4,0.15,1,2356008.229,weekly
