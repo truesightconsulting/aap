@@ -1,76 +1,76 @@
 all_name,dma1_name,sales1_name,sales2_name,chan1_name,max,cpp,hl,hrf,wks, beta ,curvegroup_name
-overall,National,Batteries,AAP,Affliates,150000,1,0.3,0.45,1,2942013.48,weekly
-overall,National,Batteries,AAP,Display - Batteries,2536104,0.003250031,2,0.15,1,575968.4194,weekly
-overall,National,Batteries,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,1919042.109,weekly
-overall,National,Batteries,AAP,Email,20000,1,1,0.6,1,1382856.807,weekly
-overall,National,Batteries,AAP,Generic Search - Batteries,10856,3.201938523,0.3,0.2,1,30106794.86,weekly
-overall,National,Batteries,AAP,OOH,140339076.4,0.001471441,4,0.15,1,1131868.435,weekly
-overall,National,Batteries,AAP,Radio - Batteries,125.38,2975.600508,4,0.15,1,18991366.91,weekly
-overall,National,Batteries,AAP,Radio - BOPUS,50000,1.75,4,0.15,1,73314.58737,weekly
-overall,National,Batteries,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,486188.3486,weekly
-overall,National,Batteries,AAP,Terrestial Radio-Speed Perk,75.85,2919.803716,4,0.15,1,16720910.1,weekly
-overall,National,Batteries,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,1776019.609,weekly
-overall,National,Batteries,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,274122.2409,weekly
-overall,National,Brakes,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,1878627.004,weekly
-overall,National,Brakes,AAP,Email,20000,1,1,0.6,1,616898.567,weekly
-overall,National,Brakes,AAP,Generic Search - Brakes,5298,2.148851407,0.3,0.2,1,18660495.27,weekly
-overall,National,Brakes,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,197686.6332,weekly
-overall,National,Brakes,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,35073.28202,weekly
-overall,National,Brakes,AAP,Radio - Oil,67.3,3087.286077,4,0.15,1,1024032.92,weekly
-overall,National,Brakes,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,6119900.092,weekly
-overall,National,Brakes,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,583045.6501,weekly
-overall,National,Brakes,AAP,Terrestial Radio-Speed Perk,75.85,2919.803716,4,0.15,1,8815904.99,weekly
-overall,National,Brakes,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,19566330.96,weekly
-overall,National,Brakes,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,214149.3845,weekly
-overall,National,Oil,AAP,Affliates,150000,1,0.3,0.45,1,311982.062,weekly
-overall,National,Oil,Castrol,Castrol Oil - Direct Mail,498909,0.324142198,1,0.6,1,1780731.015,weekly
-overall,National,Oil,Castrol,Castrol Oil - Display,23919610,0.002484594,1,0.15,1,1526832.228,weekly
-overall,National,Oil,Castrol,Castrol Oil - Radio,67.3,3097.061887,0.3,0.45,1,2894201.983,weekly
-overall,National,Oil,Castrol,Castrol Oil - Search,4254,5.609965447,0.3,0.15,1,1138084.614,weekly
-overall,National,Oil,AAP,Email,20000,1,1,0.6,1,75799.83575,weekly
-overall,National,Oil,Mobil,Mobil Oil - Direct Mail,498909,0.324142198,1,0.6,1,876692.2322,weekly
-overall,National,Oil,Mobil,Mobil Oil - Display,28537159,0.002416794,1,0.15,1,4307237.125,weekly
-overall,National,Oil,Mobil,Mobil Oil - Radio,28,3201.253,0.3,0.45,1,1368255.954,weekly
-overall,National,Oil,Mobil,Mobil Oil - Search,3048,5.240140143,0.3,0.15,1,650444.865,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,498909,0.324142198,1,0.6,1,1472922.827,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Display,8302435,0.002636958,1,0.15,1,1029577.561,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,60.19,2955.836901,0.3,0.45,1,2250564.758,weekly
-overall,National,Oil,Pennzoil,Pennzoil Oil - Search,1133,5.354633931,0.3,0.15,1,186798.5902,weekly
-overall,National,Oil,AAP,Social,4819328,0.010636604,0.3,0.45,1,593265.7275,weekly
-overall,National,Oil,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,119768.0404,weekly
-overall,National,Oil,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,1457698.444,weekly
-overall,National,Oil,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,191908.7528,weekly
-overall,National,Oil,Valvoline,Valvoline Oil - Direct Mail,498909,0.324142198,1,0.6,1,504023.5697,weekly
-overall,National,Oil,Valvoline,Valvoline Oil - Display,18299433,0.002224043,1,0.15,1,786995.9237,weekly
-overall,National,Oil,Valvoline,Valvoline Oil - Radio,45.3,3244.532077,0.3,0.45,1,796902.4042,weekly
-overall,National,Oil,Valvoline,Valvoline Oil - Search,6774,5.789787871,0.3,0.15,1,1192148.389,weekly
-overall,National,Oil,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,574559.1214,weekly
-overall,National,Other,AAP,Affliates,150000,1,0.3,0.45,1,1630241.229,weekly
-overall,National,Other,AAP,Branded Search,571570,0.055475722,0.3,0.45,1,4049879.149,weekly
-overall,National,Other,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,922312.1211,weekly
-overall,National,Other,AAP,Display - Other,20770824,0.003100948,2,0.15,1,12435630.64,weekly
-overall,National,Other,AAP,DM,498909,0.324142198,1,0.6,1,31569397.88,weekly
-overall,National,Other,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,52332645.66,weekly
-overall,National,Other,AAP,OOH,140339076.4,0.001471441,4,0.15,1,361973.6159,weekly
-overall,National,Other,AAP,Radio - BOPUS,50000,1.75,4,0.15,1,4587553.89,weekly
-overall,National,Other,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,187158.1397,weekly
-overall,National,Other,AAP,Radio - Parts,45.45,3127.953472,4,0.15,1,342995.2463,weekly
-overall,National,Other,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,101761.9019,weekly
-overall,National,Parts,AAP,Affliates,150000,1,0.3,0.45,1,4697049.316,weekly
-overall,National,Parts,AAP,Branded Search,571570,0.055475722,0.3,0.45,1,8093688.548,weekly
-overall,National,Parts,AAP,Display - Other,20770824,0.003100948,2,0.15,1,15174314.48,weekly
-overall,National,Parts,AAP,DM,498909,0.324142198,1,0.6,1,24191323.35,weekly
-overall,National,Parts,AAP,Email,20000,1,1,0.6,1,1521142.488,weekly
-overall,National,Parts,AAP,Generic Search - Batteries,10856,3.201938523,0.3,0.2,1,5159940.188,weekly
-overall,National,Parts,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,38239780.71,weekly
-overall,National,Parts,AAP,Generic Search - Parts,15266,2.015738106,0.3,0.2,1,42550748.19,weekly
-overall,National,Parts,AAP,Radio - Batteries,125.38,2975.600508,4,0.15,1,10238452.54,weekly
-overall,National,Parts,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,218579.9902,weekly
-overall,National,Parts,AAP,Radio - Parts,45.45,3127.953472,4,0.15,1,3688511.034,weekly
-overall,National,Parts,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,28515667.63,weekly
-overall,National,Parts,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,467662.1842,weekly
-overall,National,Parts,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,22539865.84,weekly
-overall,Local,Batteries,AAP,Local Radio,250000,1,4,0.15,1,4551328.251,weekly
-overall,Local,Brakes,AAP,Local Radio,250000,1,4,0.15,1,1611022.664,weekly
-overall,Local,Other,AAP,Local Radio,250000,1,4,0.15,1,683797.0203,weekly
-overall,Local,Parts,AAP,Local Radio,250000,1,4,0.15,1,2356008.229,weekly
+overall,National,Batteries,AAP,Affliates,150000,1,0.3,0.45,1,75436.24307,weekly
+overall,National,Batteries,AAP,Display - Batteries,2536104,0.003250031,2,0.15,1,63996.49104,weekly
+overall,National,Batteries,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,53306.72525,weekly
+overall,National,Batteries,AAP,Email,20000,1,1,0.6,1,35457.86685,weekly
+overall,National,Batteries,AAP,Generic Search - Batteries,10856,3.201938523,0.3,0.2,1,813697.1583,weekly
+overall,National,Batteries,AAP,OOH,140339076.4,0.001471441,4,0.15,1,29022.26757,weekly
+overall,National,Batteries,AAP,Radio - Batteries,125.38,2975.600508,4,0.15,1,527537.9697,weekly
+overall,National,Batteries,AAP,Radio - BOPUS,50000,1.75,4,0.15,1,14662.91747,weekly
+overall,National,Batteries,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,48618.83486,weekly
+overall,National,Batteries,AAP,Terrestial Radio-Speed Perk,75.85,2919.803716,4,0.15,1,576583.1069,weekly
+overall,National,Batteries,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,57290.95513,weekly
+overall,National,Batteries,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,7832.064026,weekly
+overall,National,Brakes,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,52184.08344,weekly
+overall,National,Brakes,AAP,Email,20000,1,1,0.6,1,15817.91197,weekly
+overall,National,Brakes,AAP,Generic Search - Brakes,5298,2.148851407,0.3,0.2,1,478474.2378,weekly
+overall,National,Brakes,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,5068.888031,weekly
+overall,National,Brakes,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,8768.320505,weekly
+overall,National,Brakes,AAP,Radio - Oil,67.3,3087.286077,4,0.15,1,34134.43067,weekly
+overall,National,Brakes,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,174854.2883,weekly
+overall,National,Brakes,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,58304.56501,weekly
+overall,National,Brakes,AAP,Terrestial Radio-Speed Perk,75.85,2919.803716,4,0.15,1,303996.7238,weekly
+overall,National,Brakes,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,631171.9663,weekly
+overall,National,Brakes,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,6118.553843,weekly
+overall,National,Oil,AAP,Affliates,150000,1,0.3,0.45,1,7999.540051,weekly
+overall,National,Oil,Castrol,Castrol Oil - Direct Mail,498909,0.324142198,1,0.6,1,111295.6885,weekly
+overall,National,Oil,Castrol,Castrol Oil - Display,23919610,0.002484594,1,0.15,1,76341.61139,weekly
+overall,National,Oil,Castrol,Castrol Oil - Radio,67.3,3097.061887,0.3,0.45,1,222630.9217,weekly
+overall,National,Oil,Castrol,Castrol Oil - Search,4254,5.609965447,0.3,0.15,1,56904.23072,weekly
+overall,National,Oil,AAP,Email,20000,1,1,0.6,1,1943.585532,weekly
+overall,National,Oil,Mobil,Mobil Oil - Direct Mail,498909,0.324142198,1,0.6,1,109586.529,weekly
+overall,National,Oil,Mobil,Mobil Oil - Display,28537159,0.002416794,1,0.15,1,119645.4757,weekly
+overall,National,Oil,Mobil,Mobil Oil - Radio,28,3201.253,0.3,0.45,1,342063.9886,weekly
+overall,National,Oil,Mobil,Mobil Oil - Search,3048,5.240140143,0.3,0.15,1,29565.67568,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Direct Mail,498909,0.324142198,1,0.6,1,122743.5689,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Display,8302435,0.002636958,1,0.15,1,57198.75341,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Radio,60.19,2955.836901,0.3,0.45,1,250062.7509,weekly
+overall,National,Oil,Pennzoil,Pennzoil Oil - Search,1133,5.354633931,0.3,0.15,1,15566.54918,weekly
+overall,National,Oil,AAP,Social,4819328,0.010636604,0.3,0.45,1,15211.94173,weekly
+overall,National,Oil,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,3421.944012,weekly
+overall,National,Oil,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,145769.8444,weekly
+overall,National,Oil,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,6190.604928,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Direct Mail,498909,0.324142198,1,0.6,1,126005.8924,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Display,18299433,0.002224043,1,0.15,1,49187.24523,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Radio,45.3,3244.532077,0.3,0.45,1,199225.6011,weekly
+overall,National,Oil,Valvoline,Valvoline Oil - Search,6774,5.789787871,0.3,0.15,1,74509.27433,weekly
+overall,National,Oil,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,16415.9749,weekly
+overall,National,Other,AAP,Affliates,150000,1,0.3,0.45,1,41801.05714,weekly
+overall,National,Other,AAP,Branded Search,571570,0.055475722,0.3,0.45,1,103843.0551,weekly
+overall,National,Other,AAP,Display - Oil,41405186,0.002418403,2,0.15,1,25619.78114,weekly
+overall,National,Other,AAP,Display - Other,20770824,0.003100948,2,0.15,1,318862.324,weekly
+overall,National,Other,AAP,DM,498909,0.324142198,1,0.6,1,809471.7406,weekly
+overall,National,Other,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,1341862.709,weekly
+overall,National,Other,AAP,OOH,140339076.4,0.001471441,4,0.15,1,9281.374766,weekly
+overall,National,Other,AAP,Radio - BOPUS,50000,1.75,4,0.15,1,917510.778,weekly
+overall,National,Other,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,46789.53493,weekly
+overall,National,Other,AAP,Radio - Parts,45.45,3127.953472,4,0.15,1,13719.80985,weekly
+overall,National,Other,AAP,Youtube,1759752,0.010463524,0.3,0.3,1,2907.482913,weekly
+overall,National,Parts,AAP,Affliates,150000,1,0.3,0.45,1,120437.162,weekly
+overall,National,Parts,AAP,Branded Search,571570,0.055475722,0.3,0.45,1,207530.4756,weekly
+overall,National,Parts,AAP,Display - Other,20770824,0.003100948,2,0.15,1,389084.9867,weekly
+overall,National,Parts,AAP,DM,498909,0.324142198,1,0.6,1,620290.3424,weekly
+overall,National,Parts,AAP,Email,20000,1,1,0.6,1,39003.65354,weekly
+overall,National,Parts,AAP,Generic Search - Batteries,10856,3.201938523,0.3,0.2,1,139457.8429,weekly
+overall,National,Parts,AAP,Generic Search - Other,120286,0.591208191,0.3,0.2,1,980507.1977,weekly
+overall,National,Parts,AAP,Generic Search - Parts,15266,2.015738106,0.3,0.2,1,1181965.227,weekly
+overall,National,Parts,AAP,Radio - Batteries,125.38,2975.600508,4,0.15,1,284401.4593,weekly
+overall,National,Parts,AAP,Radio - Brakes,50,3695.552483,4,0.15,1,54644.99756,weekly
+overall,National,Parts,AAP,Radio - Parts,45.45,3127.953472,4,0.15,1,147540.4414,weekly
+overall,National,Parts,AAP,Streaming Audio,29506326,0.00585611,4,0.15,1,814733.3609,weekly
+overall,National,Parts,AAP,Terrestial Radio-NSO,50000,8.217892,4,0.15,1,46766.21842,weekly
+overall,National,Parts,AAP,TV - GM,60.43333333,25204.06195,2,0.15,1,727092.4466,weekly
+overall,Local,Batteries,AAP,Local Radio,250000,1,4,0.15,1,151710.9417,weekly
+overall,Local,Brakes,AAP,Local Radio,250000,1,4,0.15,1,53700.75547,weekly
+overall,Local,Other,AAP,Local Radio,250000,1,4,0.15,1,22793.23401,weekly
+overall,Local,Parts,AAP,Local Radio,250000,1,4,0.15,1,78533.60765,weekly
